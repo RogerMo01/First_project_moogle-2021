@@ -1,0 +1,927 @@
+
+Plantae
+Ir a la navegaciónIr a la búsqueda
+«Planta»  y «Plantas» redirigen aquí. Para otras acepciones, véase Planta (desambiguación)
+Symbol question.svg Plantas
+Rango temporal: 1600–0Ma 
+Had.ArcaicoProterozoicoFan.
+Mesoproterozoico – reciente1​nota 1​
+Mayor diversificación desde el Silúrico
+Diversity of plants image version 5.png
+Diversos tipos de plantas
+Taxonomía
+Dominio:	Eukaryota
+(sin rango)	Diphoda
+Diaphoretickes
+Reino:	Plantae
+Haeckel 1866, Jussieu 1774
+Divisiones
+Clasificación filogenética:
+Plantae equivalente a Primoplantae o Archaeplastidae (clado de adquisición primaria de cloroplastos)
+
+Rhodelphis (proto-algas)
+Glaucófitas (Glaucophyta)
+Algas rojas (Rhodophyta)
+Plantas verdes (Viridiplantae)
+Chlorophyta (algas verdes)
+Streptophyta
+Charophyta (algas verdes, grupo parafilético)
+Plantas terrestres (Embryophyta)
+Hepáticas (Marchantiophyta)
+Antoceros (Anthocerophyta)
+Musgos (Bryophyta en sentido estricto)
+Plantas vasculares (Tracheophyta)
+Lycophyta
+Plantas con megafilos (Euphyllophyta)
+Helechos y afines (Monilophyta)
+Plantas con semilla (Spermatophyta)
+Gimnospermas (Gymnospermae)
+Plantas con flores (Angiospermae o Magnoliophyta)
+Clasificación tradicional
+Que incluye varios grupos parafiléticos.
+
+Algas
+Algas rojas
+Algas verdes (Chlorophyta y Charophyta)
+Plantas terrestres
+Bryophyta en sentido amplio: Plantas terrestres no vasculares
+Pteridophyta: Plantas vasculares sin semilla (P)
+Spermatophyta: Plantas con semilla
+Gimnospermas
+Angiospermas
+Dicotiledóneas (P)
+Monocotiledóneas
+[editar datos en Wikidata]
+
+El reino plantas es eucariota, pluricelular, autótrofos y suelen vivir fijas al sustrato y con vasos conductores
+En biología, se denominan plantas a los seres vivos mayormente fotosintéticos sin capacidad locomotora (es decir, sin capacidad de desplazamiento, aunque sí de movimiento) cuyas paredes celulares se componen principalmente de celulosa.2​ Taxonómicamente están agrupadas en el reino Plantae y, como tal, constituyen un grupo monofilético eucariota conformado por las plantas terrestres y las algas que se relacionan con ellas; sin embargo, no hay un acuerdo entre los autores en la delimitación exacta de este reino. La rama de la biología que estudia las plantas es la botánica, también conocida como fitología.
+
+En su circunscripción más restringida, el reino Plantae (del latín: plantae, "plantas") se refiere al grupo de las plantas terrestres, que son los organismos eucariotas multicelulares fotosintéticos, descendientes de las primeras algas verdes que lograron colonizar la superficie terrestre y son lo que más comúnmente llamamos "planta" o "vegetal". En su circunscripción más amplia, se refiere a los descendientes de Primoplantae lo que involucra la aparición del primer organismo eucariota fotosintético por adquisición de los primeros cloroplastos.
+
+Obtienen la energía de la luz del Sol, que captan a través de la clorofila presente en los cloroplastos, y con ella realizan la fotosíntesis, mediante la cual convierten simples sustancias inorgánicas en materia orgánica compleja. Como resultado de la fotosíntesis desechan oxígeno (aunque, al igual que los animales, también lo necesitan para respirar). También exploran el medio ambiente que las rodea (especialmente a través de raíces) para absorber otros nutrientes esenciales utilizados para construir, a partir de los productos de la fotosíntesis, otras moléculas que necesitan para subsistir.3​
+
+Las plantas poseen alternancia de generaciones determinada por un ciclo de vida haplodiplonte (el óvulo y el anterozoide se desarrollan asexualmente hasta ser multicelulares, aunque en muchas plantas son pequeños y están enmascarados por estructuras del estadio diplonte). En general las plantas terrestres tal como normalmente las reconocemos, son solo el estadio diplonte de su ciclo de vida. En su estadio diplonte, las plantas presentan células de tipo célula vegetal (principalmente con una pared celular rígida y cloroplastos donde ocurre la fotosíntesis), estando sus células agrupadas en tejidos y órganos con especialización del trabajo. Los órganos que pueden poseer son, por ejemplo, la raíz, el tallo y las hojas (o estructuras análogas), y en algunos grupos, flores y frutos.4​
+
+La importancia que poseen las plantas para el humano es indiscutible. Sin ellas no podríamos vivir, ya que las plantas participaron en la composición de los gases presentes en la atmósfera terrestre y en los ecosistemas, y son la fuente primaria de alimento para los organismos heterótrofos. Además, las plantas poseen importancia para el hombre de forma directa: como fuente de alimento; como materiales para construcción, leña y papel; como ornamentales; como sustancias que empeoran o mejoran la salud y que por lo tanto tienen importancia médica; y como consecuencia de lo último, como materia prima de la industria farmacológica.
+
+
+Índice
+1	Papel de las plantas como fotosintetizadores
+2	Circunscripciones de Plantae
+2.1	Etimología
+2.2	Conceptos
+2.3	Historia
+2.3.1	Desde Grecia antigua: el reino vegetal
+2.3.2	Haeckel: el reino de las plantas
+2.3.3	Copeland: las plantas verdes
+2.3.4	Whittaker: multicelularidad
+2.3.5	Margulis: las plantas terrestres
+2.3.6	Cavalier-Smith: el primer plasto
+3	Evolución y filogenia
+3.1	Filogenia
+3.2	Origen de todas las plantas y de los cloroplastos
+3.3	Evolución de las algas
+3.4	Colonización de la tierra
+3.5	Las plantas vasculares
+3.6	Relación evolutiva con los demás seres vivos
+4	El cloroplasto
+4.1	Estructura
+4.2	Función: el metabolismo vegetal
+4.3	Pigmentos
+4.4	Reproducción del cloroplasto
+4.5	Órganos fotosintéticos
+5	La célula de las plantas
+5.1	Respiración
+5.2	Pared celular
+5.3	Comunicación intercelular
+5.4	Otros plastos
+5.5	Genética
+6	Reproducción y ciclos de vida
+7	Las plantas terrestres o embriofitas
+7.1	Plantas vasculares o traqueofitas
+7.2	Angiospermas
+7.3	Monocotiledóneas y dicotiledóneas
+8	Algas
+8.1	Las glaucofitas
+9	Sistemática de plantas
+9.1	Taxonomía botánica
+9.1.1	Taxonomía Botánica: Nomenclatura
+9.1.2	Taxonomía Botánica: Clasificación
+10	Comunicación
+10.1	Por el aire
+10.2	Por el subsuelo
+10.3	Ultrasonidos
+11	Importancia de las plantas para el ser humano
+11.1	Ciencias que estudian a las plantas
+12	Anexo: Plantae según Whittaker, 1969
+13	Número de especies estimadas
+14	Véase también
+15	Notas
+16	Referencias citadas
+17	Bibliografía
+18	Enlaces externos
+Papel de las plantas como fotosintetizadores
+La energía lumínica y el dióxido de carbono, son tomados en primer lugar por las plantas para fabricar su alimento (azúcares) a través de la fotosíntesis. Por eso las plantas son consideradas los productores de un ecosistema.
+
+Circunscripciones de Plantae
+La circunscripción del reino Plantae y la definición de planta fueron cambiando con el tiempo, si bien la definición siempre incluyó a las plantas terrestres, las más importantes para el ser humano y el grupo más estudiado.
+
+Etimología
+El término neolatino 'Plantae' y el castellano 'plantas' derivan del latín planta (brote, retoño), plantare (quedarse allí donde las plantas de los pies tocan el suelo). Desde este punto de vista, podríamos llamar planta a cualquier ser plantado en el suelo o en un sustrato; sin embargo, podemos ver excepciones en algunos briófitos y en la angiosperma lenteja de agua, que no están fijos pero los consideramos plantas.
+
+Por otro lado, el concepto moderno de planta, viene del sistema de clasificación de Haeckel, quien descarta el antiguo reino vegetal, creando un nuevo reino Plantae con un sentido más natural y con sus características comunes, por lo que este nuevo reino no admite como miembros a otros organismos que no están relacionados con las plantas terrestres, como sucede con las bacterias, los hongos y las protistas en general.
+
+Conceptos
+Véase también: Vegetal#El concepto de vegetal
+Hay varios conceptos que definen las plantas, algunos son polifiléticos y otros monofiléticos. Los conceptos polifiléticos son dos: Primero el de planta como equivalente al antiguo reino vegetal donde estaban agrupaban las plantas terrestres con algas y hongos (Jussieu 1774); y el segundo concepto es de Haeckel y Whittaker, también llamado Metaphyta por otros autores y que agrupaban a las plantas terrestres con las algas multicelulares (verdes, rojas y pardas).
+
+Los conceptos monofiléticos son tres:
+
+Reino	Clado	Descripción	Autores
+Plantae sensu lato	Primoplantae o Archaeplastida	De adquisición primaria de cloroplastos: plantas verdes, algas rojas y glaucofitas	Cavalier-Smith 1998, Baldauf 20035​
+Plantae sensu stricto	Viridiplantae o Chlorobionta	Plantas verdes: plantas terrestres y algas verdes	Copeland 1956
+Plantae sensu strictissimo	Embryophyta	Plantas terrestres: plantas vasculares y no vasculares (briófitas)	Margulis 1971 y otros
+Los diferentes conceptos sobre Plantae (equivalencia en negrita) se pueden resumir en el siguiente cladograma:
+
+Primoplantae 	
+ 	
+ 	
+Rhodelphis
+
+ 
+ 	
+ Rhodophyta (algas rojas)
+
+ 
+ 
+ 	
+ 	
+Glaucophyta (glaucofitas)
+
+ 
+ Viridiplantae 	
+ 	
+ Chlorophyta (grupo de algas verdes)
+
+ 
+ Streptophyta 	
+ 	
+ "Charophyta" (grupo parafilético de algas verdes)
+
+ 
+ 	
+ Embryophyta (plantas terrestres)
+
+ 
+ 
+ 
+ 
+ 
+Finalmente, se puede decir que hay veces que "planta" tiene una acepción diferente de las aquí descriptas, cuando es así debería ser definida al principio del texto. Por ejemplo podría significar "eucariota con cloroplastos", "eucariota que realiza fotosíntesis",6​ y otras acepciones.
+
+Historia
+Desde Grecia antigua: el reino vegetal
+Artículo principal: Vegetal
+El término vegetal (regnum Vegetabilia), tiene una definición muy amplia y es de la época en que solo se dividía a los organismos en animales y vegetales, esta definición deriva de los antiguos griegos y se mantuvo en los libros de texto hasta más allá de mediados del siglo XX.7​ En su circunscripción más amplia, Vegetabilia incluye a muchos clados de organismos no emparentados entre sí, que casi no poseen ningún carácter en común salvo por el hecho de no poseer movilidad, por lo que básicamente agrupaba a las plantas terrestres, hongos y algas.
+
+Etimológicamente, vegetal viene del latín vegetare (crecer), y tradicionalmente se define como los seres vivos sin movimiento, es decir, todos los que no son animales. Esta circunscripción tan amplia fue parte de los inicios de la ciencia de la Botánica. Linneo lo adopta en su sistema de tres reinos (animal, vegetal y mineral), definiendo a los vegetales porque crecen, pero no sienten ni se mueven. Esa clasificación perduró durante mucho tiempo en nuestra cultura. A consecuencia de la invención del microscopio se descubrieron los microorganismos, considerándose inicialmente como animales a los dotados de movimiento y vegetales a los que no lo poseían. En 1875 Cohn incluye dentro del reino vegetal a las bacterias con el nombre de Schizophyta.
+
+Aún hoy se sigue considerando a los vegetales, pues son ellos los que definen los límites de estudio de la ciencia de la Botánica,8​ y se los utiliza en el campo científico solo en ese sentido, si bien hoy en día, de los procariotas solo se estudian las cianobacterias por ser similares a los ancestros fotosintéticos de los cloroplastos, y también se estudian aquellos protistas fotosintéticos (que pueden parecer animales o vegetales) que entraron en la definición amplia de alga que hoy se utiliza (las algas pueden estar en su propio departamento de Ficología); además se estudian los hongos (hoy cada vez más en su propio departamento de Micología), y las plantas terrestres, el grupo más estudiado y más importante para el ser humano.
+
+Haeckel: el reino de las plantas
+Véase también: Reino (biología)
+Para el siglo XIX, la división en solo dos reinos biológicos: animal y vegetal, ya no era satisfactoria para englobar a todos los organismos conocidos. Los microorganismos no podían clasificarse claramente como animales o vegetales, por lo que Owen propone en 1858 el reino Protozoa y Hogg en 1860 el reino Protoctista. Haeckel en cambio propone en 1866 dividir el reino vegetal en dos nuevos reinos: Protista y Plantae, agrupando en Protista a los microorganismos unicelulares como microalgas, protozoos y bacterias, y en Plantae a los multicelulares como las plantas terrestres, algas multicelulares y hongos.9​
+
+Sin embargo, en sucesivas publicaciones, Haeckel hizo correcciones a sus clasificaciones: determinó que los hongos no podían pertenecer al reino Plantae y los colocó en Protista, a las algas verdeazuladas que parecían multicelulares como Nostoc, fueron a Protista junto con las bacterias y a las algas verdes unicelulares como a las volvocales, las llevó de Protista a Plantae.10​ De este manera, si bien Haeckel comenzó distinguiendo simplemente entre seres multicelulares y unicelulares, luego avanza a una clasificación más coherente, monofilética y más cerca de lo que hoy conocemos como plantas.
+
+Copeland: las plantas verdes
+Cuando Copeland postula su sistema de cuatro reinos, define a Plantae o Metaphyta como los organismos cuyas células contienen cloroplastos de color verde brillante, los cuales contienen a su vez pigmentos como la clorofila a, clorofila b, caroteno y xantófila, y no otros; y que producen sustancias como sacarosa, almidón y celulosa.11​ Esta definición equivale al clado Viridiplantae (plantas verdes), que agrupa a las plantas terrestres y algas verdes.
+
+Whittaker: multicelularidad
+Una circunscripción que tuvo mucho éxito en los libros de texto fue la dada por Robert Whittaker (19697​), clasificación cuyos esbozos ya aparecían en publicaciones anteriores (como Whittaker 195912​) y quien dividió a la vida en cinco reinos: Plantae, Monera, Fungi, Protista y Animalia. En esta clasificación, Whittaker agrupó en Plantae a todos los grupos que tenían miembros fotosintéticos multicelulares: las plantas verdes (plantas terrestres y algas verdes), las algas rojas y las algas pardas, (ver la descripción en Plantae según Whittaker, 1969). Whittaker tampoco creía que estos tres grupos de autótrofos multicelulares estuvieran especialmente emparentados entre sí, pero los agrupó dentro de Plantae debido a que eran multicelulares con el mismo modo de nutrición.
+
+Whittaker define al reino Plantae como los organismos multicelulares con células eucariotas con pared celular y frecuentemente vacuolado, con pigmentos fotosintéticos en plástidos, junto con organismos estrechamente relacionados que carecen de pigmentos o son unicelulares, o sincitiales (multinucleados). Son principalmente de nutrición fotosintética e inmóviles, anclados a un sustrato. Tienen diferenciación estructural que conduce hacia los órganos de la fotosíntesis y del apoyo, y en las formas superiores hacia una fotosíntesis especializada, vasculares y con tejidos de cubierta. La reproducción es principalmente sexual con ciclos de alternancia de generaciones haploides y diploides, que se van reduciendo en los miembros superiores del reino.
+
+Hay que recalcar que esta circunscripción deja afuera del reino Plantae a las algas unicelulares, por lo que Plantae definido de este modo resulta polifilético, ya que los 3 tipos de algas multicelulares (verdes, rojas y pardas) tienen su correspondiente ancestro unicelular.
+
+Margulis: las plantas terrestres
+El sistema de Whittaker fue modificado por Margulis, que en 197113​ propuso que los grupos con algas multicelulares ("algas verdes", algas rojas, algas pardas) fueran transferidos al reino Protista, de forma que en Plantae solo queden agrupadas las plantas terrestres.nota 2​ En esta modificación del reino realizada por Margulis, lo define por el desarrollo de tejidos para la especialización autótrofa (modo de nutrición fotosintética), en donde el factor de selección del ambiente más significativo fue la transición de un ambiente acuático a uno terrestre.
+
+Cavalier-Smith: el primer plasto
+Para Cavalier-Smith (1998)14​ y otros,15​ el factor más importante en la evolución de las plantas está en el origen de la primera célula vegetal, lo cual se dio por simbiogénesis entre un protozoo heterótrofo fagótrofo biflagelado y una cianobacteria. Este primer organismo eucariota fotosintético representa al ancestro del reino Plantae y es llamado por otros autores Primoplantae o Archaeplastida, cuyo clado monofilético involucra las plantas verdes, algas rojas y glaucofitas. Inicialmente Cavalier-Smith sugirió que Viridiplantae podría tener la categoría de reino,16​ hasta que se estableció la relación que hay entre las plantas verdes con las algas rojas y glaucofitas. Es común en la actualidad el uso de Plantae como el "supergrupo" donde aparece el primer plasto, antes de considerarlo un reino.17​
+
+Con los nuevos caracteres y métodos de análisis aparecidos en los últimos años, se han resuelto en líneas generales las relaciones de las plantas terrestres con las algas, que indican que todo lo que conocemos como plantas terrestres y algas relacionadas ("algas verdes", algas rojas y glaucofitas), poseen un ancestro común, que fue el primer ancestro eucariota que incorporó al que se convertiría en el primer cloroplasto sobre la Tierra, en un proceso de endosimbiosis con una cianobacteria. Hoy en día, esta agrupación de organismos se reconoce como Plantae por muchos científicos (a veces llamándola "clado Plantae", debido a que sus organismos tienen un antecesor común).18​ Los nombres alternativos para este clado, que son "Primoplantae" (primera "planta" sobre la Tierra) y "Archaeplastida" (el antiguo plasto), hacen referencia al más antiguo ancestro eucariota fotosintético que incorporó al primer cloroplasto. Hay que tener en cuenta que luego de ese evento aparecieron otros tipos de eucariontes con cloroplastos, que no eran descendientes directos de este clado, debido a que se repitieron eventos de endosimbiosis en los que otro eucariota no emparentado con este clado engullía un alga verde o un alga roja e incorporaba sus cloroplastos en su organismo en un proceso llamado "endosimbiosis secundaria". Por eso muchos organismos con cloroplastos (por ejemplo las algas pardas) quedan fuera del taxón Plantae, porque no son descendientes directos de aquellos que adquirieron el primer cloroplasto, sino que adquirieron sus cloroplastos "de forma secundaria", cuando incorporaron un alga verde o un alga roja a su célula, y hoy en día son por lo tanto ubicados en otros taxones, a pesar de ser eucariotas multicelulares con cloroplastos (ver en "Origen de todas las plantas").
+
+Esta circunscripción en sentido amplio de Plantae (supergrupo Archaeplastida) vino acompañada de toda una nueva clasificación eucariota en varios supergrupos, en que por ejemplo, los reinos "tradicionales" Fungi y Animalia, que estaban emparentados, quedaron agrupados en el supergrupo Unikonta, y las algas pardas quedaron dentro del supergrupo que contiene a los que tienen cloroplastos derivados de un alga roja (Chromalveolata).
+
+Evolución y filogenia
+
+Filogenia de las plantas mostrando los clados principales y grupos tradicionales. Los grupos monofiléticos están en letras negras y los parafiléticos en azul.
+Artículo principal: Historia evolutiva de las plantas
+La imagen adjunta es un árbol filogenético actualizado (2015) de las plantas vivientes. Este diagrama gráfica el origen endosimbiótico de las células vegetales,19​ y la filogenia de las algas,20​ briofitas,21​ plantas vasculares22​ y plantas con flores.23​
+
+Plantae sensu lato (Haeckel 1866, emend. Caval.-Sm. 1998) o Archaeplastida y el origen de la primera célula vegetal por simbiogénesis entre una cianobacteria y un protozoo biflagelado del clado Corticata.
+Rhodelphis
+Glaucofitas (Glaucophyta)
+Rhodophyta se divide en dos clados: cianidiofíceas y algas rojas. Por endosimbiosis secundaria se originan las algas cromofitas.
+Plantas verdes (Viridiplantae) o Plantae sensu stricto (Copeland 1956)
+Algas verdes: clorofitas y carofitas
+Plantas terrestres (Embryophyta) o Plantae sensu strictissimo (Margulis 1971)
+Briofitas: hepáticas, musgos y antoceros
+Plantas vasculares (Tracheophyta)
+Pteridofitas: Licopodios, equisetos y helechos.
+Plantas con semillas (Spermatophyta)
+Gimnospermas: cícadas, ginkgo, coníferas y gnetales.
+Plantas con flores o angiospermas: monocotiledóneas y dicotiledóneas (grado ANA, magnólidas y eudicotas).
+Filogenia
+Los análisis moleculares dan aproximadamente la siguiente filogenia entre los grupos de plantas:24​25​26​27​28​29​
+
+Plantae	
+ 	
+ 	
+Rhodelphis
+
+ 
+ 	
+Rhodophyta
+
+ 
+ 
+ 	
+ 	
+Glaucophyta
+
+ 
+Viridiplantae	
+ 	
+Chlorophyta
+
+ 
+Streptophyta	
+Chlorokybophytina	
+ 	
+Mesostigmatophyceae
+
+ 
+ 	
+ 	
+Spirotaenia
+
+ 
+ 	
+Chlorokybophyceae
+
+ 
+ 
+ 
+ 	
+Klebsormidiophytina	
+Klebsormidiophyceae
+
+ 
+Phragmoplastophyta	
+ 	
+Charophyceae
+
+ 
+ 	
+ 	
+Coleochaetophyceae
+
+ 
+ 	
+ 	
+Zygnematophyceae
+
+ 
+Embryophyta	
+Bryophyta s.l	
+ 	
+Anthocerophyta
+
+ 
+Setaphyta	
+ 	
+Hepaticophyta
+
+ 
+ 	
+Bryophyta s.s.
+
+ 
+ 
+ 
+Tracheophyta	
+ 	
+Lycophyta
+
+ 
+Euphyllophyta	
+ 	
+Monilophyta
+
+ 
+Spermatophyta	
+ 	
+Gymnospermae
+
+ 
+ 	
+Angiospermae
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Las relaciones hasta el momento son materia de discusión en la monofilia o parafilia de las briofitas, aunque la mayoría de los análisis moleculares han apoyado a las briofitas como un grupo monofilético, y en la diversificación de las algas verdes, algas rojas, glaucofitas y el género de proto-algas Rhodelphis.
+
+Origen de todas las plantas y de los cloroplastos
+Artículo principal: Simbiogénesis seriada
+
+Ilustración del proceso de endosimbiosis de una cianobacteria por un eucariota, como el que formó el primer cloroplasto, en el ancestro del taxón Archaeplastida o Primoplantae.
+La aparición de las plantas sobre la Tierra ocurrió por un proceso de simbiogénesis entre un protista y una bacteria. Las bacterias son en líneas generales organismos procariotas, con ADN pequeño y circular, sin núcleo celular, ni organelas, donde su única membrana es la membrana celular y se reproducen por fisión binaria (la célula crece y se divide en dos); son microscópicos sin movilidad o con poca movilidad que se reproducen muy rápidamente. De las bacterias, nos interesa el grupo de las cianobacterias (también llamadas "algas verdeazules"), que son uno de los grupos bacterianos en los que ocurre la fotosíntesis. Los protistas son eucariontes mayormente unicelulares microscópicos, poseen células más grandes y complejas: con múltiples cromosomas de ADN lineal recluidos en el núcleo, con organelas membranosas con especialización del trabajo, una estructura rígida interna llamada citoesqueleto y reproducción por mitosis o meiosis. Todos los eucariotas provienen de un ancestro que poseía mitocondrias, pues ancestralmente fue incorporada por endosimbiosis con una bacteria y es la encargada de la respiración celular. Además, todos los eucariotas capaces de realizar fotosíntesis lo hacen gracias a otra organela particular llamada cloroplasto, que ancestralmente fue una antigua cianobacteria que, igualmente, fue incorporada por endosimbiosis. Que hayan sido incorporados por endosimbiosis significa que el organismo originalmente ingirió a la bacteria (probablemente con el fin primario de alimentarse de ella o como parásito), pero en lugar de degradarla pasó a convivir con ella, iniciando una relación simbiótica, donde la bacteria sigue reproduciéndose por su propia cuenta pero integrándose a la célula huésped, perdiendo su capacidad de vida libre. Hoy en día, si bien en algunos linajes puede haberse perdido alguna de estas organelas, en general son imprescindibles para la planta. Las mitocondrias y los cloroplastos, al igual que las bacterias de las que se originaron, poseen ADN tipo procariota (pequeño y circular), reproducción similar (fisión binaria) y sus propios ribosomas son de tamaño procariota (70S). La vez que un protista engulló una cianobacteria y la convirtió en un cloroplasto se formó un nuevo linaje, junto con todos sus descendientes formaría el clado Primoplantae o Archaeplastida, que contiene a todas las plantas terrestres y a las algas relacionadas con ellas.
+
+
+Detalle de la ultraestructura de una cianobacteria como la que se convirtió en el primer cloroplasto.
+
+Evolución de la ultraestructura del cloroplasto que derivó en los cloroplastos de glaucofitas, de algas rojas y de plantas verdes (algas verdes y plantas terrestres).
+Los demás eucariotas que poseen cloroplastos los adquirieron por engullir a su vez no a una cianobacteria sino a un "alga verde" o alga roja que ya tenían cloroplastos (los adquirieron "por endosimbiosis secundaria"). Por lo tanto, los cloroplastos son todos derivados de una única cianobacteria que fue la primera en ser incorporada como cloroplasto, pero los eucariotas que los poseen, al haber realizado la endosimbiosis varias veces independientemente, no están relacionados filogenéticamente.
+
+Tener en cuenta que la adquisición de las mitocondrias y los cloroplastos no fueron los únicos eventos de endosimbiosis, muchos organismos modernos tienen bacterias intracelulares simbióticas, lo que indica que estas relaciones no son difíciles de establecer y mantener.
+
+Evolución de las algas
+
+Crucigenia, un alga Chlorophyceae. Las algas unicelulares pueden considerarse las plantas más primitivas.
+La historia evolutiva de las plantas se inicia con el origen de la primera célula vegetal. Esta constituye a la vez la primera alga, es decir, el primer ser eucariota fotosintético que ha adquirido ya su primer plasto (o cloroplasto). Este comienzo parece haberse sido producto de la simbiogénesis entre una cianobacteria y un protozoo biflagelado.30​
+
+Se estima que las primeras algas (Archaeplastida) serían del Paleoproterozoico, con algo más de 1900 Ma (millones de años) y las algas rojas (Rhodophytina) se diversificaron en los grupos actuales hace más de 1800 Ma.1​ Los fósiles de algas multicelulares más antiguos son (Rafatazmia y Ramathallus), con unos 1600 Ma_y la diversificación de las algas verdes (Chlorophyta, Charophyta) en sus subgrupos actuales tiene unos 1800 Ma iniciando el Neoproterozoico.1​ Por otro lado, una estimación de relojes moleculares calibrados usando los fósiles más antiguos conocidos de cada grupo, calcula la aparición de Archaeplastida hace 1900-2100 millones de años.1​
+
+La evolución de formas multicelulares ocurrió en varias ocasiones, tal como se puede observar en algas rojas, clorofitas y carofitas. A partir de las algas rojas y de su interacción con otros protistas, apareció un nuevo tipo de alga: Nuevamente la simbiogénesis actúa como un importante factor de la evolución, pues las algas cromofitas (Chromista como las algas pardas) se originaron por una endosimbiosis secundaria entre un protista biflagelado y un alga roja, aunque también es posible que fueran varios eventos endosimbióticos independientes.
+
+Colonización de la tierra
+
+Fossombronia. Las hepáticas están consideradas como las plantas terrestres más primitivas.
+Las plantas terrestres (Embryophyta) aparecieron como descendientes de algas verdes multicelulares de agua dulce (de Charophyta), y al poblar la tierra marcaron el hito más importante de la evolución y la diversidad biológica terrestre. La presencia de esporas fósiles con afinidades a las esporas de las actuales hepáticas,31​ constituye la evidencia fósil que nos señala que estas plantas colonizaron la tierra durante el Ordovícico Medio,32​ hace unos 472 Ma (millones de años) y se inició en la parte occidental del continente Gondwana (Argentina).33​
+
+Las primeras plantas terrestres se denominan briofitas, un grado evolutivo que implica la aparición del esporófito multicelular, el cual constituye la fase diploide de la alternancia de generaciones, y se logran adaptaciones a la vida terrestre como el desarrollo de una cutícula que protege al esporófito , de esporopolenina que protege la espora y flavonoides que protegen contra la radiación ultravioleta, la cual es más intensa fuera del agua.
+
+Las plantas vasculares
+
+En el Devónico, las plantas vasculares marcan el inicio de la colonización extensa de la tierra.
+Las primeras plantas vasculares como las riniofitas y licopodios, aparecen en el Silúrico superior y en ellas el esporófito pasa a ser la fase dominante con desarrollo de tejidos vasculares y de sostén, raíces y tallo fotosintético con crecimiento dicotómico.
+
+En el Devónico se produce una gran radiación evolutiva de las plantas vasculares.34​ Los primeros bosques aparecen en zonas pantanosas y están formados por Pseudosporochnales (Cladoxylopsida). Aparecen los equisetos, los helechos, las plantas leñosas (progimnospermas) y las primeras plantas con semilla, las cuales se asemejan a helechos (pteridospermas)
+
+En el Carbonífero, las espermatofitas (plantas con semillas) se diversifican en el clado de las actuales gimnospermas y las plantas con flores (Anthophyta). Entre las gimnospermas, las más antiguas son coníferas como Cordaitales y en el Pérmico aparecen claramente ginkgos, cícadas y gnetales. Por el contrario, las angiospermas aparecen mucho después, iniciando el Cretácico, como descendientes de plantas con flores del clado Anthophyta, y los fósiles más antiguos serían magnólidas de hace unos 140 millones de años.35​
+
+Relación evolutiva con los demás seres vivos
+
+Árbol simbiogenético de los seres vivos. Actualmente se considera demostrado el origen simbiogenético de las plantas por fusión entre un protista biflagelado y una cianobacteria. Posteriormente la simbiogénesis entre un alga roja y otro protista originó las algas cromofitas.
+La explicación se sintetiza en los siguientes árboles filogenéticos elaborados de acuerdo con las ideas de Cavalier-Smith, que muestran las 3 líneas de la vida (bacterias, arqueas y eucariontes), con las divisiones que posteriormente sufrieron los eucariotas, y en flecha azul cómo una bacteria se unió a una línea de eucariotas (del clado Corticata) para formar el primer cloroplasto en el taxón que se llamó Archaeplastida o Primoplantae, y en flechas verde y roja cómo dos de esas algas (quizás más) se unieron a otros eucariotas diferentes en algún momento de la formación de los grupos Chromalveolata, Rhizaria y Excavata, que completan todos los taxones de eucariotas con cloroplastos (aunque dentro de esos taxones, hay muchos grupos donde el cloroplasto se ha perdido).
+
+
+Una de las últimas versiones del árbol filogenético de la vida, que muestra una de las actuales hipótesis de las veces en que fueron adquiridos los cloroplastos por endosimbiosis en los diferentes grupos de eucariotas. Quizás la adquisición de un alga verde y la adquisición de un alga roja hayan ocurrido más de una vez entre los cromistas. Los supergrupos de eucariotas (Archaeplastida, Rhizaria, Excavata, Chromalveolata y Unikonta, a veces dividido en Opisthokonta y Amoebozoa) están bastante consensuados, lo que está en investigación son las relaciones entre ellos. Dibujado a partir de Cavalier-Smith (2013,36​ 2010a,37​ 2010b,38​ 200939​).
+El cloroplasto
+Artículo principal: Cloroplasto
+Los cloroplastos son las organelas de la célula vegetal responsables de que las plantas posean su característica principal: que sean organismos autótrofos (produzcan "su propio alimento" a partir de sustancias inorgánicas), ya que es dentro de los cloroplastos donde se realiza el proceso de fotosíntesis,nota 3​ que utiliza la energía de la luz del Sol para almacenarla en forma de energía química en las moléculas orgánicas. Las moléculas orgánicas se forman a partir de moléculas más pequeñas, inorgánicas, que se encuentran en el aire y el agua (el agua misma es una molécula inorgánica). Para "unir" las moléculas inorgánicas entre sí se necesita energía, que queda almacenada en esa unión (una unión se representa por un palito, como en C-C, la unión entre dos carbonos). Por eso se dice que las plantas "almacenan energía química" a partir de la energía de la luz del Sol, y por eso se dice que son organismos autótrofos, "que fabrican su propio alimento".
+
+Los cloroplastos también son los responsables de que las plantas sean verdes, ya que la clorofila a, el pigmento responsable de captar la energía de la luz del Sol para que empiece la fotosíntesis, no puede aprovechar toda la luz del Sol como fuente de energía, solo puede utilizar la luz roja y la azul, siendo reflejada principalmente, de la luz visible, la luz verde. Al reflejar la luz verde, ese es el color que llega a nuestros ojos y el que observamos. Las plantas que poseen otros colores en sus partes fotosintéticas poseen además otros pigmentos que les dan color, pero si no los tuvieran serían verdes también. (Los modelos sobre la naturaleza de la luz y la explicación de por qué es así se encuentran en la física cuántica).
+
+Estructura
+La estructura del cloroplasto puede variar un poco según de qué grupo de plantas se trate. A continuación un esquema de la estructura de un cloroplasto de las plantas verdes (plantas terrestres y "algas verdes"), que son las plantas más comunes para nosotros.
+
+
+Esquema de un cloroplasto.
+La estructura de estos cloroplastos consta de dos membranas una dentro de la otra con un espacio intermembrana entre ellas, y dentro de la membrana más interna se encuentra el estroma, que es un medio ambiente líquido. De la membrana más interna del cloroplasto se invaginan una serie de sacos apilados como monedas llamados tilacoides (cada pila de tilacoides se llama grana). Como son invaginaciones, el espacio que hay dentro de los tilacoides (el espacio intratilacoidal, o lumen tilacoidal) al principio se continúa con el espacio intermembrana del cloroplasto, esta comunicación se corta en los cloroplastos maduros. En los cloroplastos maduros los tilacoides son una tercera membrana, y el espacio intratilacoidal posee una composición química diferente que la que se encuentra en el espacio intermembrana. Dentro del estroma se encuentran una serie de objetos que se espera que se encuentren en el citoplasma de las bacterias, como ADN circular, que contiene, por ejemplo, las órdenes para que el cloroplasto sintetice sus propios ribosomas.
+
+Función: el metabolismo vegetal
+
+Química de la fotosíntesis: reactivos y productos. La fotosíntesis ocurre dentro de los cloroplastos de las células de la planta.
+Artículo principal: Fotosíntesis
+La función principal de los cloroplastos dentro de la célula es la de llevar a cabo el metabolismo de la planta. Este metabolismo es fotosintético, o más exactamente fotolitoautótrofo oxigénico, es decir, fotótrofo por la captación de la energía solar por medio de la absorción de luz, autótrofo o sintético por la capacidad de sintetizar sus propias moléculas orgánicas a partir de moléculas inorgánicas más simples (fijando el dióxido de carbono), litótrofo por el uso de sustancias inorgánicas como agentes reductores (disociación del agua) y oxigénico por la liberación final de oxígeno.
+
+La fotosíntesis almacena la energía lumínica de la luz del Sol en forma de energía química en las moléculas orgánicas que se forman, tanto en la "fijación de carbono" como en la formación de ATP. La fotosíntesis es el conjunto de reacciones químicas que, con la energía de la luz del Sol, convierte dióxido de carbono (un gas atmosférico) y agua (que adquirió por ejemplo absorbiéndola por las raíces), en glucosa (una molécula orgánica) y oxígeno (otro gas que se libera a la atmósfera). Todo el proceso de la fotosíntesis se realiza en dos fases:
+
+
+Simplificación de las reacciones fotoquímicas (fase luminosa) y biosintéticas (fase oscura) de la fotosíntesis de las plantas.
+Fase lumínica: también se le llama fase fotoquímica, pues al captar la luz del Sol como fuente de energía, impulsa todo el proceso químico en el complejo. La clorofila es el pigmento que absorbe la energía lumínica, da el color verde a las plantas y forma parte de todo un complejo (el fotosistema) en la membrana de los tilacoides del cloroplasto. Los fotones de luz captados (energía lumínica) elevan el nivel de electrones en la cadena de transporte de electrones (gradiente electroquímico), lo que produce que se "rompan" las moléculas de agua (disociación o fotólisis del agua) en un átomo de oxígeno, 2 hidrógenos (protones H+) y dos electrones; por lo que se liberará una parte que no se usa (el oxígeno atmosférico) y el resto, que posee carga energética, se utilizará en la formación de ATP (energía química) y NADPH (poder reductor), ambas moléculas necesarias en la segunda fase de la fotosíntesis, la fase oscura. Resumiendo la reacción de fotólisis del agua:
+\mathrm {2\ H_{2}O\longrightarrow 4\ H^{+}+4\ e^{-}+O_{2}}\mathrm{2\ H_2O \longrightarrow 4\ H^+ + 4\ e^- + O_2 }
+
+Fase oscura: esta fase de la fotosíntesis se realiza en el estroma de los cloroplastos, produciéndose la fijación del dióxido de carbono mediante el ciclo de Calvin. Se denomina fase oscura por ser independiente de la luz, sin embargo se efectúa tanto de día como de noche. En esta fase el CO2 atmosférico es capturado por la enzima RuBisCO, y conjuntamente con el resultado de la disociación del agua (en forma de ATP y NADPH), se construyen las moléculas orgánicas. Cada molécula de dióxido de carbono contiene un átomo de carbono (C) y luego de la "fijación de carbono" se llega a un compuesto de 3 átomos C-C-C (el gliceraldehído-3-fosfato o G3P). Estas recciones se resumen del siguiente modo:
+\mathrm {3\ CO_{2}+5\ H_{2}O+9\ ATP+6\ NADPH/H^{+}\longrightarrow C_{3}H_{7}O_{6}P+9\ ADP+8\ P_{i}+6\ NADP^{+}}\mathrm{3\ CO_2 + 5\ H_2O + 9\ ATP + 6\ NADPH/H^+ \longrightarrow C_3H_7O_6P + 9\ ADP + 8\ P_i + 6\ NADP^+}
+
+En realidad la fotosíntesis se considera finalizada en este momento, pero luego continúa el proceso de biosíntesis mediante reacciones químicas hasta sintetizar la glucosa, una molécula orgánica tipo azúcar que contiene un esqueleto de 6 carbonos. La glucosa y otros productos intermedios, se modifican posteriormente para construir todas las demás moléculas orgánicas como glúcidos, lípidos y proteínas. Las reacciones químicas descritas en ambas fases y que van desde los reactivos primarios hasta la síntesis de la glucosa, se resumen en el siguiente cuadro:
+
+
+Esquema de la reacción química de la fotosíntesis oxigénica, típica en las plantas y que va desde sustancias simples inorgánicas, como son el agua y el dióxido de carbono, hasta la biosíntesis de la glucosa. Nótese la equiparidad del número de átomos en la ecuación.
+Pigmentos
+
+Un cromóforo es un material que absorbe la luz de ciertos colores, reflejando la luz de otros.nota 4​ La luz absorbida por los cromóforos de la membrana tilacoide de los cloroplastos es utilizada como fuente de energía que impulsa la fotosíntesis.
+
+Absorción de la luz por las clorofilas a y b, propio de las plantas verdes.
+Los pigmentos de las plantas son cromóforos que se encuentran en los tilacoides de los cloroplastos y su función fundamental es la de absorber la luz del Sol para la fotosíntesis. El pigmento principal es la clorofila a, el cual absorbe mayor energía en las longitudes de onda de la luz azul-violeta y naranja-rojo (0,43 y 0,66 μm), en consecuencia refleja la luz verde dándole el color típico a las plantas. Su distribución es universal, pues se encuentra en las plantas superiores, todos los tipos de algas y en cianobacterias. Es también el más abundante, enmascarando a los demás pigmentos y dándole a la vegetación en general su característico tono verde predominante.
+
+Las clorofilas son fundamentales para la fotosíntesis debido a su papel como principal donante de electrones en la cadena de transporte de electrones.40​ Las plantas tienen además de la clorofila a, xantofilas, que son de color amarillo y también son fotosintéticas, y el caroteno que es un pigmento accesorio de color naranja. Cuando las hojas se van desecando y oxidando, se tornan anaranjadas o amarillentas, debido a que la clorofila a es la que se degrada más rápido, apareciendo los tonos enmascarados. Evolutivamente la principal divergencia está en Viridiplantae por un lado, donde se desarrolla la clorofila b (absorbción de luz 0,45 y 0,65 μm) de color amarillo verdoso y en Biliphyta por otro lado (Glaucophyta y Rhodophyta) donde se desarrollan las ficobilinas.
+
+Los pigmentos accesorios, además de coadyuvar en la captación de energía para la fotosíntesis, muchos de ellos tienen variadas funciones que se fueron sumando con la evolución. Por ejemplo, hay tejidos que acumulan algún pigmento accesorio con el fin de reflejar su color, que es lo que puede encontrarse en pétalos de flores y cáscara de frutos. También pueden tener otras funciones en la célula que no estén relacionadas con el hecho de absorber o reflejar colores. Los pigmentos accesorios son muy utilizados como carácter para clasificar a los grupos de plantas, ya que dan información sobre la historia evolutiva de cada taxón.
+
+
+Alga verde. Su color es dado principalmente por las clorofilas que poseen en los tilacoides de sus cloroplastos.
+
+ 
+
+Alga roja. Su color es dado por varios pigmentos accesorios (xantofilas, β caroteno) que captan principalmente los colores azulados.
+
+Reproducción del cloroplasto
+El cromosoma del cloroplasto es el responsable de que este pueda duplicarse, dentro de la célula de la planta. Consta de una única hebra continua (a veces llamada circular) de ADN. El ADN se duplica a sí mismo de forma que hay varios por cloroplasto, que se duplica por fisión binaria. Este proceso a veces se repite, por eso en muchas células ocurre que hay más cloroplastos cuando son más antiguas. Cuando es la célula vegetal la que se divide, se reparte los cloroplastos entre sus células hijas, en un proceso que aún está en investigación.
+
+El cloroplasto nace en los tejidos jóvenes de la planta en forma de proplasto, que luego se diferencia. El proplasto es el precursor de toda una familia de plástidos, con variadas funciones (ver en célula vegetal).
+
+Todos los cloroplastos son descendientes de un único cloroplasto ancestral, que se formó por un proceso de integración luego de que un eucariota engulló una cianobacteria, proceso que se llamó "endosimbiosis primaria". En algunos grupos de plantas el cloroplasto fue tomado al engullir el alga que ya lo poseía, pasando a integrar la célula huésped, en eventos de endosimbiosis posteriores, llamados "endosimbiosis secundaria" (ver más adelante en "Origen de todas las plantas").
+
+Los grupos taxonómicos evolucionan, y el cloroplasto evolucionó junto con las células de las que forman parte, por lo que se encuentran variaciones de la estructura del cloroplasto aquí descripto que se corresponden con diferentes eventos evolutivos, cada variación y su lugar en la evolución serán puntualizados en sus correspondientes lugares en la sección de Diversidad de plantas.
+
+Órganos fotosintéticos
+En plantas organizadas en órganos con especialización del trabajo (plantas terrestres), hay órganos especializados en realizar la fotosíntesis. Los órganos llamados hojas solo se encuentran en la fase diploide (lo que comúnmente llamamos "planta") de plantas vasculares (principalmente helechos, gimnospermas y angiospermas) y suelen ser aplanados para aumentar la superficie expuesta a la luz. En otros grupos de plantas hay estructuras que poseen un aspecto similar porque cumplen la misma función, pero tienen un origen evolutivo diferente, por eso poseen otros nombres. Como el nombre es dado por su origen evolutivo y no por su función, a veces las estructuras evolucionan de forma de cambiar de función, pero siguen manteniendo el nombre. Por ejemplo a las hojas se las sigue llamando hojas ("hojas modificadas") en los cactus, en que pasaron a ser espinas y la función fotosintética la cumple el tallo que es verde. Las espinas derivadas de hojas se llaman espinas foliares.
+
+La célula de las plantas
+Artículo principal: Célula vegetal
+La "célula vegetal" (de las plantas terrestres) posee variaciones según los grupos taxonómicos que se traten y según el tejido en que se encuentre en cada grupo taxonómico, por ejemplo la madera es diferente de lo que aquí se describe; también puede ser diferente de la que en esta sección se describe en las algas. Cuando se la describe en relación a algún tejido normalmente hace referencia al esporófito de las plantas vasculares (helechos, gimnospermas y angiospermas). En la sección de Diversidad se puntualizarán las diferencias con la célula descripta en esta sección cuando sea necesario.
+
+A continuación un esquema de la célula vegetal (aquí se remarcarán las diferencias con las células animales, para una explicación de todos sus componentes ver célula).
+
+
+Esquema de una célula vegetal.
+Dos organelas que vale la pena mencionar, además de los cloroplastos ya explicados, están las mitocondrias que son las encargadas de la respiración celular.
+
+Respiración
+Artículo principal: Respiración vegetal
+Del mismo modo que cualquier otro organismo eucariota, las plantas poseen respiración aeróbica, con consumo de O2 y expulsión de CO2. Es especialmente importante durante la noche, ante la falta de energía proveniente del Sol. Es un proceso vital, pero inverso a la fotosíntesis. Se produce principalmente en las mitocondrias, metabolizando sustancias como glucosa y fructosa, y produciendo energía. La planta respira a través de raíces y hojas, y ante la falta de oxígeno puede recurrir a la fermentación para obtener energía necesaria para su subsistencia.41​ En ciertos casos, se puede producir la fotorrespiración (respiración durante el día).
+
+Pared celular
+Muchos organismos, en especial aquellos llamados plantas, poseen células con una pared celular, una estructura más o menos rígida que la célula secreta por fuera de su membrana celular, que limita su forma y volumen. La pared celular apareció varias veces en el curso de la evolución, por lo que hay grupos de organismos diferentes que poseen paredes celulares,42​ las cuales se pueden diferenciar entre sí por su arquitectura y composición químicas. En plantas y algas estudiadas, la maquinaria responsable de sintetizar la pared celular puede poseer algunos elementos comunes a algunos grupos,42​ pero nuestra comprensión de la evolución de la pared celular es todavía limitada y se está investigando,43​44​ así como su estructura y función45​ Su composición química varía dependiendo del estadio de desarrollo de la célula, el tipo celular, y la estación del año.43​ En plantas como las plantas terrestres, "algas verdes", algas rojas, algas pardas, diatomeas y dinoflagelados, las paredes celulares químicamente constan principalmente de polisacáridos. La pared celular cumple múltiples y variadas funciones: otorgar rigidez, determinar la forma celular, resistir la expansión celular, actuar como barrera defensiva, y actuar de filtro permitiendo el paso de ciertas sustancias y no permitiendo el de otras. En organismos multicelulares con pared celular, las paredes celulares dan sostén estructural y forman una parte importante de la textura del cuerpo de la planta. Por ejemplo, en las plantas con partes leñosas, es la pared celular engrosada lo que les da el sostén y el aspecto leñoso. En plantas multicelulares con pared celular, todo el espacio que queda fuera de las membranas celulares, incluyendo todas las paredes celulares, se llama apoplasto, y el movimiento de sustancias a través de él se llama la vía del apoplasto.
+
+Comunicación intercelular
+En las plantas terrestres y algunas algas muy relacionadas con ellas, el citoplasma de las células se comunica con el de otras células a través de pequeños canales de membrana celular que atraviesan las paredes celulares a través de unos poros en ellas. A estas estructuras se las llama plasmodesmos. Al espacio interior a las membranas plasmáticas de todas las células de la planta se lo llama simplasto, al movimiento de sustancias a través de él se lo llama la vía del simplasto.
+
+
+Diagrama de absorción apoplástica y simplástica de agua por las raíces de una planta.
+El citoplasma de las células eucarióticas contiene un gran número de vesículas, que son organelas en general pequeñas, con funciones de almacenamiento temporario y transporte de materiales. Un tipo particular de vesícula es la vacuola, presente en la mayoría de las células de las plantas. La vacuola es una vesícula de tamaño importante, que puede ocupar de un 30 % a un 90 % del tamaño celular. Nace en forma de provacuolas pequeñas en la célula joven, en el tejido meristemático, que a medida que la célula madura se fusionan en una única vacula grande, que luego se transforma en un elemento de soporte central para la célula. La vacuola consta de una membrana (la membrana vacuolar o tonoplasto) con líquido en su interior, y puede funcionar como órgano de almacenamiento de sustancias muy variadas, que el citoplasma toma o deposita según las necesidades de la célula. Por ejemplo en la vacuola se pueden depositar pigmentos, metabolitos secundarios que funcionan como defensa química para la planta, o sustancias que se encuentran en el citoplasma que pueden ser dañinas para la célula. El tamaño de la vacuola hace que el citoplasma quede en contacto íntimo con la membrana celular, en la que ocurre todo tipo de intercambio de sustancias químicas entre el citoplasma y el medio. La vacuola además ingresa "sales" (solutos) a su interior desde el citoplasma, de forma que la concentración de solutos sea más alta en el interior de la vacuola que en el citoplasma. En un proceso físico llamado ósmosis, el agua traspasa la membrana vacuolar y queda atraída donde hay mayor concentración de solutos. Esto expande a la vacuola, que junto con ella expande a toda la célula, que así se mantiene presionada contra su pared celular. Esta presión se llama presión de turgencia, y es la que mantiene a las partes herbáceas de la planta erectas. Esta presión también es responsable de expandir la célula durante el crecimiento celular.46​
+
+
+La vacuola de la célula vegetal es la principal responsable de que esta se mantenga turgente, cuando tiene la posibilidad de absorber agua.
+Otros plastos
+Finalmente, una diferencia más con los animales es que las plantas poseen otros tipos de plástidos además de los cloroplastos, se llaman plástidos porque se generan a partir de la misma organela que el cloroplasto: el proplasto, pero luego se diferencian en otras funciones. Su función puede ser por ejemplo la producción y el almacenamiento de diferentes sustancias químicas que necesita la célula (por ejemplo los amiloplastos almacenan almidón, los cromoplastos sintetizan y almacenan pigmentos que dan color por ejemplo a flores y frutos). Si bien tradicionalmente se clasifica a los plástidos según su función y sus estructuras internas, a veces resultan difíciles de asignar a alguna categoría, su significado biológico no siempre es único ni evidente.47​ Los miembros de la familia de los plástidos tienen roles importantes en lo que respecta a la fotosíntesis, la síntesis de aminoácidos y lípidos, el almacenamiento de almidón y aceites, la coloración de flores y frutos, la sensación de gravedad, el funcionamiento de los estomas, y la percepción del medio ambiente.48​
+
+Genética
+Las células de las plantas tienen tres juegos diferentes de ADN:
+
+por un lado la célula tiene su propio genoma en su núcleo,
+por otro las mitocondrias tienen su propio genoma (1 cromosoma continuo)
+y por otro los cloroplastos tienen su propio genoma (1 cromosoma continuo)
+El núcleo de las células de las plantas contiene genoma de tipo eucariota: al igual que en los animales, el ADN está ordenado en cromosomas que constan de una hebra de ADN lineal, más o menos empaquetada con sus proteínas asociadas. En cambio, las mitocondrias y los cloroplastos tienen genoma de tipo bacteriano: poseen un solo cromosoma de ADN continuo por orgánulo, al igual que sus ancestros que eran bacterias. Las mitocondrias y los cloroplastos se dividen dentro de la célula, y cuando la célula que los alberga se divide, se calcula que posee mecanismos para que estas organelas se distribuyan entre las células hijas, de forma que nunca quede una célula sin mitocondrias ni cloroplastos.49​
+
+Reproducción y ciclos de vida
+Para comprender qué es lo que vemos cuando observamos una planta hay que tener una comprensión primero de cómo puede llegar a ser su ciclo de vida.
+
+Un ciclo de vida comprende todos los estadios que se suceden desde que se tiene un individuo hasta que se obtiene otro individuo descendiente con la misma cantidad de ADN, recomenzando el ciclo. El descendiente puede ser idéntico en su contenido de ADN a su único padre, entonces se dice que se obtuvo la descendencia por reproducción asexual, o puede que el ADN de la descendencia sea una combinación entre el contenido de ADN de dos padres diferentes, entonces se dice que la descendencia se obtuvo por reproducción sexual. En las plantas en el sentido más amplio hay una amplia variedad de ciclos de vida, que muchas veces pueden incluir tanto reproducción asexual como sexual, para comprenderlos aquí se expondrán 3 tipos diferentes de ciclos de vida, los 3 incluyen multicelularidad y reproducción sexual, a partir de ellos se pueden comprender los demás.
+
+Las células eucariotas se dividen en dos hijas, pero las hijas no necesariamente heredan la misma cantidad de ADN que la célula madre. Como recordamos, el ADN de los eucariotas se encuentra en forma de hebras lineales de ADN empaquetadas (cada hebra llamada cromosoma). En líneas generales podemos decir que en eucariotas, la cantidad de ADN en una célula puede estar en forma de un solo juego de cromosomas (n) o dos juegos de cromosomas (2n). A veces la célula madre contiene la misma cantidad de ADN que sus células hijas (tanto la madre como las hijas son 2n, o tanto la madre como las hijas son n), entonces a la división celular se la llama mitosis. A veces la célula madre tiene el doble de ADN que sus 4 células nietas (la madre es 2n pero las 4 nietas son n, siendo las hijas un estadio intermedio entre madre y nietas), a ese tipo de división celular se lo llama meiosis.
+
+Los 3 ciclos de vida aquí esquematizados ejemplifican 3 ejemplos de reproducción sexual. En la reproducción sexual el organismo alterna entre una fase n y una fase 2n: el contenido de ADN se divide (n) y luego se combina el de dos padres diferentes (2n). En un momento del ciclo de vida de todas las plantas aquí esquematizadas, el ADN se encuentra en forma de un solo juego de cada cromosoma (n), cuando es así se dice que la planta se encuentra en la fase haploide de su ciclo de vida. En algunas plantas, la fase haploide se vuelve multicelular por mitosis, cuando es así, el adulto multicelular también es haploide. En un momento posterior del ciclo de vida dos células haploides de dos padres diferentes (se hayan vuelto multicelulares o no) se fusionan (durante la fecundación) para formar una célula diploide (2n), entrando en la fase diploide de su ciclo de vida. Esta célula 2n también se puede volver multicelular por mitosis, o no, si se vuelve multicelular el individuo adulto multicelular también es diploide (2n). Posteriormente, se haya vuelto multicelular o no, en alguna de esas células diploides ocurre la meiosis dando células haploides (n), recomenzando el ciclo. Más allá de si alguna de las fases se haya vuelto multicelular o no, el hecho de dividir su contenido de ADN durante la meiosis (de 2n a n) y luego recombinar el de padres diferentes durante la fecundación (de n a 2n) hace que haya habido reproducción sexual. Nótese que si hay reproducción sexual siempre habrá fases haploides y diploides alternadas, que no necesariamente implican multicelularidad.
+
+Cuando solo la célula haploide se vuelve multicelular, dando solo adultos haploides, se dice que el ciclo de vida es haplonte. Cuando solo la célula diploide se vuelve multicelular, dando solo adultos diploides, se dice que el ciclo de vida es diplonte. Cuando tanto la célula haploide como la diploide se vuelven multicelulares, dando individuos adultos haploides y diploides alternadamente, se dice que el ciclo de vida es haplo-diplonte.
+
+Estas explicaciones se resumen en los 3 cuadros que se muestran a continuación:
+
+
+Ciclo de vida haplonte. M!: meiosis F!: fecundación m!: mitosis círculo: primer estadio del ciclo de vida, unicelular cuadrado: estadios siguientes del ciclo de vida, multicelulares
+
+Ciclo de vida diplonte M!: meiosis F!: fecundación m!: mitosis círculo: primer estadio del ciclo de vida, unicelular cuadrado: estadios siguientes del ciclo de vida, multicelulares
+
+Ciclo de vida haplo-diplonte M!: meiosis F!: fecundación m!: mitosis círculo: primer estadio del ciclo de vida, unicelular cuadrado: estadios siguientes del ciclo de vida, multicelulares
+Como se ve en el cuadro, en los tres ciclos de vida, a las dos células haploides que se fusionan durante la fecundación se las llama gametas. En todas las plantas con reproducción sexual las gametas se dividen en dos sexos, y se necesita una gameta de cada sexo para que ocurra la fecundación. Normalmente los sexos evolucionan de forma que una de las gametas sea móvil y busque activamente a la otra, y la otra gameta sea inmóvil pero más grande y con sustancias de reserva ("alimento") en el citoplasma. Cuando es así a la gameta móvil se la llama masculina, a la gameta con sustancias de reserva se la llama femenina. La célula diploide que se forma durante la fecundación se llama cigoto.
+
+Finalmente hay ciclos de vida en los que se conserva durante todo el ciclo la cantidad de ADN de las células, no hay división en fases haploide y diploide, no hay meiosis ni fecundación y, para dar descendencia, se generan células nuevas por mitosis. Por lo tanto la reproducción es asexual. Muchas veces se encuentra que la misma especie es capaz de dar descendencia tanto sexual como asexualmente, cuando es así, la reproducción asexual se puede integrar a los esquemas de reproducción sexual como los descriptos, agregando un ciclo de reproducción asexual donde esta ocurra. En general las especies se reproducen sexualmente (aunque en muchos casos sea más común la reproducción asexual).
+
+En las plantas en el sentido más amplio (el de eucariotas con cloroplastos) podemos encontrar cualquiera de estos 3 ciclos de vida, variaciones más complejas de ellos, y también ciclos de vida que no implican multicelularidad en ninguna fase, en los llamados organismos unicelulares.
+
+Se mencionarán dos ejemplos concretos, que sirven para comprender la evolución de las plantas terrestres (embriofitas): el ciclo de vida de aquellas "algas verdes" de las que evolucionaron las plantas terrestres es haplonte, con solo individuos multicelulares haploides, como sus ancestros. En cambio aquellos descendientes que llamamos plantas terrestres, poseen un ciclo de vida haplo-diplonte, debido a que la fase diploide se volvió multicelular por mitosis antes de dar las gametas, apareciendo dos generaciones alternadas de individuos: el esporófito 2n y el gametófito n, que en las plantas terrestres que existen en la actualidad no son iguales morfológicamente (ver más adelante).
+
+En la sección de Diversidad se mostrarán cuadros ilustrando algunos ciclos de vida con casos concretos.
+
+Las plantas terrestres o embriofitas
+Artículo principal: Embryophyta
+Las algas antecedieron a las plantas terrestres. Las plantas terrestres se dividen en grupos que nos resultan muy familiares: briofitas, helechos, gimnospermas y plantas con flores.
+
+Las plantas llamadas embriofitas (nombre científico Embryophyta) son conocidas como "las plantas terrestres" porque son prácticamente el único grupo que colonizó la superficie de la tierra, y el más exitoso. Como plantas colonizadoras de un medio diferente, en comparación a las algas de las que se originaron poseen caracteres que les permite adaptarse a las nuevas condiciones, principalmente poseen adaptaciones a la falta de agua, a la mayor exposición a los rayos ultravioletas del Sol en comparación a la que hay en el agua, y la mayor exposición al oxígeno en comparación a la que hay en el agua. Son "plantas terrestres" o embriofitas las plantas que nos resultan más conocidas, en particular los musgos, los helechos, las gimnospermas (el grupo de gimnospermas más conocido son las coníferas) y las angiospermas (mal llamadas "plantas con flores", son casi todas las embriofitas). Prácticamente el resto de los eucariotas con cloroplastos se encuentra en el agua y se les llama "algas".
+
+Para entender qué es lo que vemos cuando observamos una embriofita primero debemos comprender cómo es su ciclo de vida. Las embriofitas poseen un ciclo de vida haplo-diplonte, es decir que poseen dos generaciones alternadas de individuos: el esporófito 2n y el gametófito n. En las plantas terrestres actuales, el esporófito y el gametófito son muy diferentes entre sí (aunque hay científicos que creen que al principio eran similares morfológicamente), a esta situación se la llama "alternancia de generaciones heteromórfica" (heteromórfica: "con morfos diferentes"). El gametófito y el esporófito pueden ser increíblemente diferentes según el grupo de que se trate, podemos diferenciar entre los musgos en sentido amplio, las pteridofitas y las espermatofitas. En los musgos, el cuerpo fotosintético es la parte haplonte de su ciclo de vida, mientras que el estadio diplonte se limita a un pequeño pie que no fotosintetiza, nutricionalmente es dependiente del estadio haplonte. En pteridofitas (licopodios, helechos y afines) lo que normalmente llamamos "helecho" es el estadio diplonte de su ciclo de vida, y el estadio haplonte está representado por un pequeño cuerpo fotosintético sin organización en tejidos ("talo") que crece en el suelo. En las plantas con semilla o espermatofitas (gimnospermas y angiospermas), lo que normalmente reconocemos como el cuerpo de la planta es solo el estadio diplonte de su ciclo de vida, creciendo el estadio haplonte "enmascarado" dentro del grano de polen y del óvulo.
+
+Los estadios multicelulares de las embriofitas poseen un modo de crecer hasta ser multicelulares diferente del que estamos acostumbrados a ver en los animales. En plantas, siempre se conserva alguna región cuyas células poseen la capacidad de dividirse y dar todo tipo de tejidos, a estas regiones se las llama meristemas. Suele haber meristemas, por ejemplo, en la punta del tallo y la punta de las raíces. Solo en los meristemas se observa el crecimiento de células nuevas que luego se diferenciarán.
+
+Las plantas, a diferencia de los animales, son organismos modulares, esto quiere decir que su cuerpo está estructurado en forma de módulos que se repiten indefinidamente: por ejemplo cada rama de un árbol, con su tallo y hojas, es un módulo. Los módulos pueden producirse y perderse sin mayor riesgo para la planta, siempre que se conserve la cantidad suficiente de ellos como para que los órganos puedan cumplir con todas sus funciones eficientemente.
+
+Más características:
+
+No se desplazan.
+Nutrición: fotosíntesis (por lo que el dióxido de carbono es necesario), y respiración (por lo que el oxígeno es necesario).
+Con "célula vegetal" con pared celular, plasmodesmos, vacuola.
+Contienen flavonoides, que las ayudan a sobrevivir bajo los rayos ultravioletas del Sol, más intensos en la superficie terrestre que bajo el agua.
+Contienen un metabolismo diferente del de las algas de las que se originaron para sobrevivir bajo la alta presión de oxígeno presente en la atmósfera terrestre.
+Las plantas embriofitas evolucionaron a partir de algas verdes del grupo de las clorofitas (nombre científico Chlorophyta) durante el Paleozoico.
+
+Briófitos (Bryophyta): musgos, antoceros y hepáticas.
+Los briófitos son pequeñas plantas confinadas a ambientes húmedos, además necesitan agua líquida para la fecundación. Son haplo-diplontes, como todas las embriofitas, y tanto la fase haploide como la fase diploide del ciclo de vida son visibles, aunque es el haploide adulto (el gametófito) el que hace la fotosíntesis. Este grupo presenta en su gametófito cutícula resistente a la desecación y tejidos como tubos que transportan el agua a través del organismo (pero no tienen el mismo origen evolutivo que los tejidos transportadores de las plantas vasculares).
+
+Cormófitos o plantas vasculares.
+Las plantas vasculares (también llamadas traqueofitas) son haplo-diplontes con gametófito y esporófito adultos, pero el individuo más desarrollado es el esporófito, que es el organizado en tejidos y órganos. Es el esporófito el que posee los tubos que transportan el agua y la savia (los haces vasculares) que le dan el nombre al grupo. Las plantas vasculares se subdividen en pteridofitas y espermatofitas.
+
+Pteridófitos (división Pteridophyta).
+Las pteridofitas poseen un gametófito que es un talo (cuerpo sin organizar en tejidos y órganos) que es fotosintético y de vida libre, a diferencia de lo que pasa en las espermatofitas. Las pteridofitas más conocidas son los helechos.
+
+Espermatófitos (división Spermatophyta).
+Las plantas vasculares incluyen, como subgrupo, a los espermatófitos o plantas con semillas, que se diversificaron al final del Paleozoico. En estos organismos el gametófito está más reducido que en pteridofitas, vive confinado dentro del óvulo (el gametófito femenino) o dentro del grano de polen (el gametófito masculino) en una estructura nueva llamada flor, y el esporófito comienza su vida por mitosis luego entrando en dormición hasta que se dan las condiciones para seguir creciendo: a ese período de latencia se lo llama semilla. Entre las espermatofitas encontramos a las gimnospermas y las angiospermas. Las gimnospermas comprenden a las coníferas y a las cícadas, gnétidas y a Ginkgo biloba. Las angiospermas (mal llamadas "plantas con flores") tienen flores diferentes de las gimnospermas, y además la semilla está contenida dentro de una estructura nueva llamada fruto.
+
+Angiospermas (Angiospermae).
+Este es el grupo más numeroso de plantas, aparecieron durante el Jurásico y han llegado a ser dominantes de la flora de casi todo el planeta.
+
+Plantas vasculares o traqueofitas
+En las raíces, los tallos y las hojas de las plantas vasculares hay sistemas de tejidos especializados. Las plantas vasculares constan de tres principales sistemas de tejidos: el epidérmico, el vascular y el fundamental. El tejido epidérmico es como la “piel” de la planta porque es la capa externa de células. El tejido vascular es como su “torrente sanguíneo”, ya que transporta el agua y los nutrientes por toda la planta; y el tejido fundamental es todo lo demás.
+
+Tejido epidérmico: La cubierta externa de una planta consta de tejido epidérmico, que consiste en una sola capa de células epidérmicas. La superficie externa de éstas suele estar cubierta por una capa cerosa gruesa que protege a la planta de la pérdida de agua y las lesiones. La gruesa capa cerosa de las células epidérmicas se conoce como cutícula. Algunas células epidérmicas tienen pequeñas proyecciones llamadas tricomas, que ayudan a proteger la hoja y también a veces le dan una apariencia vellosa. En las raíces, el tejido epidérmico incluye células con pelos radicales que aumentan la superficie expuesta a la tierra y contribuyen a la absorción del agua. Dependiendo de la especie en particular, las hojas poseen en la epidermis de las hojas pequeños poros denominados estomas, rodeados de células oclusivas, que regulan la pérdida de agua y el intercambio de gases.
+Tejido vascular: El tejido vascular forma un sistema de transporte que desplaza el agua y los nutrientes por toda la planta. El tejido vascular consta de xilema, un tejido que conduce agua, y el floema, un tejido que conduce alimento. El tejido vascular contiene varios tipos de células especializadas. El xilema consta de traqueidas y vasos. El floema consta de tubos cribosos y células acompañantes.
+Tejido fundamental: Las células que se encuentran entre los tejidos epidérmico y vascular forman el tejido fundamental. En la mayoría de las plantas, el tejido fundamental consiste principalmente de parénquima. Las células parenquimáticas tienen paredes celulares delgadas y vacuolas centrales grandes rodeadas por una capa delgada de citoplasma. En las hojas, las células del tejido fundamental están llenas de cloroplastos y son el sitio en el que ocurre la mayor parte de la fotosíntesis de la planta. El tejido fundamental también puede contener dos tipos de tejidos llamados tejidos de sostén, con paredes celulares engrosadas, flexibles y fuertes que ayudan a sostener la planta. Son el colénquima y el esclerénquima. Las células que forman el colénquima normalmente se encuentran justo debajo de la epidermis de tallos herbáceos y hojas, y sus paredes celulares engrosadas contienen gran cantidad de pectina. Son células vivas. Las células que forman el esclerénquima también dan sostén a la planta y tienen paredes celulares engrosadas, pero están muertas a la madurez y la rigidez se la otorga la lignina presente en sus paredes celulares.
+Estos tejidos se agrupan en órganos. Los órganos de las traqueofitas son:
+
+Raíz
+Tallo
+Hoja
+Flor (presente solo en espermatofitas)
+Fruto (presente solo en angiospermas)
+Angiospermas
+Artículo principal: Angiospermae
+Las gimnospermas y los helechos suelen tener un crecimiento indefinido. Las angiospermas, sin embargo, pueden ser anuales (crecer solo por un año o una estación de crecimiento), bienales (crecer solo por dos años o dos estaciones de crecimiento) o perennes. Una planta anual es una planta que vive un año o menos, típicamente vive por una estación de crecimiento dentro del año. Las plantas anuales son hierbas (si bien no todas las hierbas son anuales), y usualmente pueden ser detectadas en que carecen de un tallo subterráneo y no muestran evidencia de que crecieron desde la estación anterior (es decir no hay tallos engrosados ni otra estructura de almacenamiento, ni yemas durmientes, ni frutos antiguos). Las plantas bienales son las que viven dos años (o por dos estaciones de crecimiento), usualmente floreciendo en el segundo año. Las plantas bienales típicamente forman una roseta basal de hojas durante el primer año y forman una inflorescencia en el segundo año. Las plantas bienales pueden ser difíciles de detectar sin observar a las plantas por dos años. Una planta perenne es la que vive más de dos años. Las plantas perennes son las hierbas con tallos subterráneos, los arbustos, las lianas y los árboles.50​ Algunas plantas perennes pueden vivir milenios.51​
+
+Entre las especies anuales se encuentran
+Centeno (Secale cereale)
+Mijo (Panicum miliaceum)
+Trigo (Triticum aestivum)
+Entre las especies bienales se encuentran
+Acelgas (Beta vulgaris var. cicla)
+Rábanos (Raphanus sativus)
+Zanahorias (Daucus carota)
+Entre las especies perennes se encuentran
+Abeto (Abies alba), y prácticamente todas las demás gimnospermas.
+Encina (Quercus ilex)
+Melisa (Melissa officinalis)
+Romero (Rosmarinus officinalis)
+Monocotiledóneas y dicotiledóneas
+Véase más detalladamente en Dicotyledoneae y Monocotyledoneae.
+Tradicionalmente se ha dividido a las angiospermas en monocotiledóneas y dicotiledóneas, aunque hoy en día, el grupo de dicotiledóneas, que era parafilético, es subdividido en varios grupos, cada uno con su propio antecesor común. En muchos libros de texto se sigue estudiando la forma de diferenciar a las monocotiledóneas del resto de las angiospermas o dicotiledóneas:
+
+La característica más sobresaliente es que las monocotiledóneas poseen un solo cotiledón en su semilla, mientras que la mayoría del resto de las angiospermas posee 2 cotiledones en su semilla.
+las dicotiledóneas poseen raíz de origen radicular (se origina de la radícula del embrión) persistiendo en forma adulta (se puede reconocer a simple vista una raíz principal de las secundarias), en cambio las monocotiledóneas poseen solo raíz de origen adventicio (que se originan en otras partes de la planta).
+las monocotiledóneas poseen un tallo con atactostela, las dicotiledóneas con eustela de esta forma pueden poseer troncos con madera (crecimiento secundario).
+las monocotiledóneas poseen flores cuyos verticilos suelen darse en 3 piezas, en las dicotiledóneas los verticilos suelen tener 4, 5 o muchas piezas.
+las hojas de las monocotiledóneas en general tienen venación paralela, a diferencia de la reticulada de las dicotiledóneas
+Algas
+Se llama algas a todos los eucariotas protistas que adquirieron cloroplastos por endosimbiosis y que no pertenecen al grupo de las plantas terrestres o embriofitas. El nombre alga se pone en minúsculas para remarcar que no se corresponde con un grupo monofilético ni está en ningún sistema formal de clasificación. Aquí se expondrán los grupos de algas, ya que son estudiados por la Botánica.
+
+Casi todas las algas son acuáticas, descendientes de los primeros eucariotas, que aparecieron en el mar. Algunas de ellas son multicelulares con formación de tejidos con división del trabajo, no se mueven y son exclusivamente autótrofas: algunas algas verdes, algunas algas rojas y las algas pardas (las 3 fueron consideradas dentro de Plantae en la clasificación de 5 reinos de Whittaker 19697​). Las demás algas pueden ser unicelulares autótrofos sésiles (las chlorarachneas, las haptofitas); pero hay taxones (los euglenoideos, las algas doradas en sentido amplio, las diatomeas, los dinoflagelados, las criptomonas, Bolidomonas) que poseen organismos que además de fotosintetizar y poseer cloroplastos, poseen movilidad y pueden alimentarse de forma heterótrofa (son mixotróficos), por lo que además de ser considerados algas son considerados protozoos.
+
+Las glaucofitas
+Las glaucofitas son un pequeño grupo de algas microscópicas. La única clorofila que contiene es la clorofila a, y se distinguen por la presencia de un relicto de la pared de peptidoglicano que puede haber existido por fuera de la membrana de la cianobacteria simbionte, y quedó entre las dos membranas del cloroplasto.52​53​
+
+Sistemática de plantas
+Artículo principal: Botánica Sistemática
+La Botánica Sistemática es la teoría y la práctica de agrupar individuos en especies, agrupar esas especies en grupos más grandes, y darles a esos grupos nombres, produciendo de esta forma una clasificación. Las clasificaciones son utilizadas para organizar la información sobre las plantas.
+
+Hay muchas formas de construir una clasificación. Por ejemplo, las plantas pueden ser clasificadas sobre la base de sus propiedades medicinales (como lo están en algunos sistemas de hierbas medicinales), o sobre la base de cuáles son sus nichos ecológicos preferidos (como lo están en algunas clasificaciones utilizadas en Ecología). Una clasificación basada en la filogenia, como la aquí utilizada, intenta ordenar a los organismos en grupos sobre la base de sus relaciones evolutivas. Esto es lo que actualidad se considera un sistema "natural" de clasificación.
+
+Una clasificación como la aquí utilizada se produce en dos pasos. El primero es la reconstrucción de la filogenia de un grupo de organismos, el segundo es la construcción del sistema de clasificación a partir del árbol filogenético. La ciencia que se ocupa de esto último se llama Taxonomía.
+
+Taxonomía botánica
+Artículo principal: Clasificación de los organismos vegetales
+La Taxonomía es la rama de la ciencia que se ocupa, por un lado, de nombrar y describir para la ciencia a todas las especies, y por otro lado, de construir con su árbol filogenético un sistema de clasificación, convirtiendo los clados en taxones.54​ Un taxón es un clado al que se ha asignado un nombre, una descripción si es una especie, y un "tipo" (que en el caso de las especies de plantas, es un ejemplar de la especie guardado en un herbario). En la clasificación preponderante hoy en día (la "linneana"), a los taxones además se los ubica en categorías taxonómicas como las que se muestran en el cuadro:
+
+
+La taxonomía en la actualidad: los taxones se construyen a partir de clados del árbol filogenético. Cada nodo del árbol es un ancestro, un clado es ese ancestro más todos sus descendientes.54​ Además, a cada taxón le corresponde su categoría taxonómica (si bien para algunos científicos esto no es necesario).
+A continuación se explicarán las reglas para nombrar a las plantas (en "Nomenclatura") y cuál es el sistema de clasificación que se utiliza hoy en día (en "Clasificación").
+
+Taxonomía Botánica: Nomenclatura
+Artículo principal: Nombre botánico
+Esta sección necesita ser revisada
+Ante la necesidad de dar un nombre claro a cada especie de plantas no es factible el uso de los nombres vulgares, lo que no significa que estos deban ser olvidados. Los nombres vulgares tienen el inconveniente de variar considerablemente de una región a otra o de que especies botánicas distintas tengan la misma designación. Por otro lado existen multitud de especies que no se conocen por ningún nombre vulgar.
+
+Por ello, a la hora de nombrar las plantas se han de seguir una serie de reglas acordadas por la comunidad científica en el Código Internacional de Nomenclatura Botánica, que regula también la nomenclatura de otros seres vivos considerados anteriormente plantas, como algas y hongos.
+
+A continuación se indican las reglas más importantes:
+
+No son válidos los nombres anteriores a 1753, año a partir del cual el botánico Carlos Linneo comenzó la nomenclatura científica de las plantas que se utiliza en la actualidad. En algunos grupos específicos, esta fecha de inicio es diferente.
+Se considera válido aquel nombre dado por primera vez al taxon tras ser publicado en una revista científica bajo ciertas reglas. No serán válidos los nombres posteriores del mismo taxon, por considerarse sinónimos.
+Los nombres deben estar latinizados ya que el latín es el idioma acostumbrado para la nomenclatura en las ciencias.
+El nombre científico de una planta es binominal, es decir, contiene dos palabras (nombres) (por ejemplo, Cupressus sempervirens):
+El nombre del género al que pertenece la planta va en mayúscula, delante del nombre específico. Cuando se nombra de nuevo a la especie en una publicación puede abreviarse el nombre del género si no hay ambigüedad, en el ejemplo anterior, C. sempervirens.
+El nombre específico dado a la especie va en minúscula, que, por lo general, será un epíteto que caracterice a la especie en cuestión (p. ej. Sibbaldia procumbens, por ser una planta postrada). Puede también dedicarse a una persona (p. ej. Rubus castroviejoi, que está dedicado al botánico español Santiago Castroviejo Bolíbar) o lugar (p. ej. Crataegus granatensis, granadino, de Granada), o trasladar un nombre vernáculo, como en el caso de Prunus mahaleb (del árabe).
+A continuación del nombre científico se debe escribir la inicial, iniciales o apellido completo del autor o autores que por primera vez describieron la planta (ej. Thymus vulgaris L.). Esta lista es oficial y no pueden usarse otras abreviaturas. Pueden añadirse las fechas en caso de considerarse oportuno, si bien no hay tradición de hacerlo.
+A veces, tras el nombre científico, aparecen las partículas ex o in entre la abreviatura de dos autores (ej. Rosa micrantha Borrer ex Sm.). En el primer caso, quiere decir que el segundo autor concede la autoría del nombre al primero, pero que la verdadera autoría botánica le corresponde al segundo, esto es, el primero sugirió el nombre y el segundo lo publicó válidamente. En el segundo caso, el verdadero autor es el primero, pero lo hace en una obra o artículo de revista que corresponde al segundo, por lo que es conveniente que quede citado a modo de recordatorio.
+
+Cuando es necesario trasladar una especie de un género a otro, se citará el nombre del primer autor entre paréntesis antes del autor que ha trasladado la especie. Así, por ejemplo, la especie Valeriana rubra descrita por Carlos Linneo (L.) fue trasladada al género Centranthus por Augustin Pyrame de Candolle (DC.), por lo que su nombre quedó como Centranthus ruber (L.) DC.
+
+También es frecuente utilizar en los nombres una serie de signos y abreviaturas entre las que caben destacar los siguientes:
+
+sp. / spp.: especie / especies.
+subsp. / subspp.: subespecie / subespecies.
+var. / varr.: variedad / variedades.
+\times\times: híbrido.
+fl.: del latín floruit (floreció), se pone junto a la abreviatura de autor, seguido de uno o varios años e indica que solo se le conoce esa época activa como botánico (ej. Andrews fl. 1975).
+aff.: abreviatura de affinis, 'semejante', y se utiliza para indicar en un trabajo que los ejemplares estudiados tienen la mayoría de los caracteres de un taxón, pero difieren en otros (ej. Sempervivum aff. tectorum).
+Para los cultivares se utiliza la abreviatura cv. o las comillas simples (ej. Citrullus lanatus cv. Crimson Sweet o Citrullus lanatus 'Crimson Sweet').
+
+Taxonomía Botánica: Clasificación
+La búsqueda de un sistema "natural" de clasificación es una disciplina con mucho trasfondo histórico, porque cada clasificación nueva se basa en una clasificación anterior a la que los usuarios ya se habían acostumbrado. Desde los inicios de la ciencia como la conocemos hoy en día, han trascendido muchos sistemas de clasificación, y muchas veces eran varios de ellos los que eran utilizados al mismo tiempo por diferentes usuarios, si bien algunos tenían más éxito que otros. Por ejemplo, un libro particularmente exitoso fue Species Plantarum de Linneo.
+
+En una época los sistemas de clasificación eran un reflejo de la concepción que cada naturalista tenía de cómo eran las relaciones entre especies. Desde la aparición de la teoría de la evolución de Darwin, los científicos se pusieron de acuerdo en que la clasificación debía basarse en el árbol filogenético de las especies. El problema en la época era que no se sabía cuál era la filogenia "verdadera" de las plantas, sino que existían variadas hipótesis que daban todavía como resultado diferentes sistemas de clasificación. En plantas, este escenario fue cambiando en las últimas décadas, con la llegada de nuevos caracteres, como los de la ultraestructura de la célula y los análisis moleculares de ADN. En los taxones superiores de plantas (los más cercanos al reino Plantae), por primera vez empezaba a surgir una única hipótesis de árbol filogenético con amplio consenso, que da como resultado la clasificación que aquí se muestra.
+
+La clasificación preponderante hoy en día en el ambiente científico (la de la escuela cladista) considera que solo pueden ser taxones los grupos que abarcan a un ancestro común más toda su descendencia ("monofiléticos")54​ Por eso por ejemplo, las dicotiledóneas, que son parafiléticas, no se consideran un taxón para muchos científicos, que las dividen en taxones que se corresponden con sus grupos monofiléticos.
+
+Por lo tanto, debido a lo ya expuesto, la clasificación que aquí se presenta de taxones superiores de plantas es hoy en día la única que se utiliza en el ambiente científico, es basada en la filogenia, posee como taxones solo a grupos monofiléticos, y posee nombres tomados de sistemas de clasificación anteriores, que se siguen utilizando por razones históricas. Hay que tener en cuenta que si bien esta parte del árbol filogenético está bien resuelta, la mayoría de los científicos aún no ha decidido en qué categorías taxonómicas ubicar estos taxones, por eso aquí se los llama con nombres informales o en general con nombres terminados en -phyta ("planta", derivado del antiguo griego) sin entrar en detalle acerca de la categoría taxonómica en que deberían ser ubicados.
+
+Hoy en día está muy consensuado entre los científicos que se debe partir del taxón Archaeplastida o Primoplantae (para muchos, el nuevo Plantae) para construir los grupos monofiléticos que se muestran a continuación, también se muestran algunos grupos parafiléticos importantes y un grupo polifilético extinto, encerrados entre comillas para distinguirlos de los grupos monofiléticos.
+
+Plantae (clado de adquisición primaria de cloroplastos) también llamado Primoplantae o Archaeplastida
+
+Rhodelphis
+Glaucofitas (Glaucophyta)
+Algas rojas (Rhodophyta)
+Plantas verdes (Viridophyta, Viridiplantae o Chloroplastida)
+"Algas verdes" (grupo parafilético, todas las Viridiplantae salvo Embryophyta)
+Clorofitas (Chlorophyta)
+Estreptofitas (Streptophyta)
+"Carofitas" ("Charophyta") (parafilético, todas las algas verdes no clorofitas, no se mostrarán aquí los pequeños grupos que la componen, pero mencionaremos a las Charales, que es el grupo del que se originaron las plantas terrestres)
+Plantas terrestres o embriofitas (Embryophyta)
+"Bryophyta en sentido amplio" (parafilético, todas las embriofitas no traqueofitas)
+Hepáticas (Marchantiophyta)
+Antoceros (Anthocerophyta)
+Musgos (Bryophyta en sentido estricto)
+Plantas vasculares o traqueofitas (Tracheophyta, Cormophyta)
+"Pteridophyta" (grupo parafilético que comprende a Lycopodiophyta y Monilophyta)
+Lycopodiophyta o Lycophyta
+Plantas con megafilos o eufilofitas (Euphyllophyta)
+Helechos y afines o monilofitas (Monilophyta)
+Psilotopsida
+Equisetopsida
+Marattiopsida
+Polypodiopsida
+Plantas con semilla o espermatofitas (Spermatophyta, fanerógamas)
+†"Helechos con semilla" ("Pteridospermatophyta", grupo polifilético, extintos)
+Gimnospermas (Gymnospermae)
+Coníferas (Pinophyta)
+Cycadophyta
+Ginkgophyta
+Gnetophyta
+Plantas con flores (Angiospermae, Magnoliophyta)
+Monocotiledóneas (Monocotyledoneae)
+"Dicotiledóneas" (Dicotyledoneae, parafilético, todas las angiospermas no monocotiledóneas)
+Los análisis de filogenia hechos en las últimas décadas también lograron una gran resolución por debajo de las categorías mencionadas en este esquema. A continuación los últimos sistemas de clasificación publicados, que son los que se utilizan hoy en día:
+
+Para la clasificación de las angiospermas, ver Sistema de clasificación APG III (APG III 2009,55​ véase también LAPG III 200956​).
+Para las gimnospermas, ver Sistema de clasificación de las gimnospermas vivientes de Christenhusz et al. 2011 (Christenhusz et al. 2011a,57​ c58​).
+Para los helechos y licofitas, ver Sistema de clasificación de pteridofitas de Christenhusz et al. 2011 (Christenhusz et al. 2011b,59​ c58​ y d60​).
+Todos estos sistemas consideran como taxones solo a los grupos monofiléticos y, al menos en las categorías más cercanas a especie, nombran a los taxones según los principios de la Nomenclatura y los ubican en categorías taxonómicas linneanas.
+
+Para las algas que están fuera del taxón Archaeplastida, ver la clasificación de los eucariotas de Adl et al. (2005).
+
+Comunicación
+Las plantas están integradas dentro de comunidades complejas, a las cuales les permite poder comunicarse entre ellas para así conseguir defenderse, sobrevivir o asegurar un número de medios para su crecimiento. Para poder compensar el que están fijadas al suelo y la carencia de órganos especializados, las plantas han obtenido por selección natural sistemas de comunicación basados en fenómenos alelopáticos positivos, es decir, han creado mecanismos con los cuales pueden producir compuestos bioquímicos que pueden tener un gran peso en la supervivencia, crecimiento y reproducción de otros seres vivos vecinos, permitiéndoles sobrevivir de las adversidades que sufren.61​
+
+Por el aire
+Mediante componentes orgánicos volátiles (COV), cuando la planta es agredida, estos componentes serán liberados al aire, método de transporte para poder llegar a las plantas del alrededor y avisarlas, creando una comunicación entre ellas. Las moléculas utilizadas son metabolitos secundarios que sintetiza la planta para su funcionamiento fisiológico y que se encuentran guardadas en reservorios celulares.
+
+Estos COV pueden ser de diferentes maneras, y se diferencian por su composición y su estructura. La diversidad de los COV es debida a que por cada tipo de ataque, hay un tipo concreto de COV. También hay unos concretos que solo pueden liberar ciertas especies de plantas, haciendo que las otras del alrededor, si no son de la misma familia, no tendrán los receptores adecuados para poder conseguir y entender estos.
+
+Por el subsuelo
+Este método tiene lugar en la rizosfera, es decir, la zona donde las raíces hacen su función. Para esta comunicación, es necesario el uso de los mediadores biológicos, los hongos.
+
+Las plantas y los hongos crean una cooperación subterránea que se llama red de micorrizas, permitiendo que mediante ésta, todas las plantas de un mismo bosque puedan comunicarse entre ellas, pudiendo cubrir distancias de kilómetros cuadrados. Entonces, utilizando este fenómeno las plantas pueden reconocer y percibirse entre sí en uso del desplazamiento de señales y compuestos entre las hifas y las raíces. Así, los compuestos hacen la función de neurotransmisores que se mueven a través de la “sinapsis” entre las paredes celulares de las raíces y las hifas de los hongos.
+
+Ultrasonidos
+Cuando las plantas están en una situación de sequía o se les cortan los tallos, surge un sonido, producido por las cavitaciones cuando pequeñas burbujas de aire son creadas y crean una explosión en el xilema.62​
+
+
+Las plantas suelen comunicarse cuando están en peligro, y por eso, la información que más se transmite son las relacionadas con enfermedades o insectos que las pueden estar atacando, puesto que suelen ser las amenazas más comunes para ellas.
+
+Cuando las plantas reciben esta información, una de sus tácticas es liberar más COV para avisar a las otras plantas, haciendo que un número más grande de ellas esté preparado para el peligro. También pueden liberar otro tipo de COV que atrae a depredadores carnívoros y parásitos, los cuales harán de defensa de las plantas ante los herbívoros que las amenazaban.
+
+Cuando una planta es atacada y libera los COV, en verdad no está avisando a las otras, sino a las partes de su cuerpo que no han sido afectadas porque se preparen, y entonces, las otras se enteran por casualidad.
+
+También se utilizan estos medios de comunicación para luchar por el terreno del subsuelo. Las raíces de las plantas sintetizan el COV y lo sueltan a la rizosfera, los cuales tienen la misión de explorar la zona para detectar la presencia de las plantas del alrededor, con el objetivo de atacarlas o evitarlas.
+
+Importancia de las plantas para el ser humano
+No se puede subestimar la importancia que tienen las plantas para el ser humano. Sin ellas, ni nosotros ni la mayoría de las especies de animales podría existir. La fotosíntesis en las plantas y otros grupos de organismos fotosintéticos más pequeños ha cambiado la Tierra en dos formas. La primera es la fijación del dióxido de carbono y la liberación de moléculas de oxígeno que directamente alteraron la atmósfera del planeta en estos últimos miles de millones de años. Lo que solía ser una atmósfera deficiente en oxígeno sufrió un cambio gradual. A medida que una masa de oxígeno se acumuló en la atmósfera, la selección por una respiración dependiente de oxígeno ocurrió (principalmente a través de las mitocondrias), lo que debe haber sido un precursor de la aparición de muchos organismos multicelulares, incluyendo a todos los animales. Además, la atmósfera rica en oxígeno permite la acumulación de una capa de ozono en la parte superior, que no permite el acceso a la superficie de un exceso de radiación UV. Esto permitió a los organismos ocupar nichos ecológicos expuestos a la radiación que antes habían sido inaccesibles.
+
+En segundo lugar, los compuestos producidos por las especies fotosintéticas son utilizados, directa o indirectamente, por organismos no fotosintéticos, heterotróficos. Para prácticamente todas las criaturas que viven en la superficie terrestre, y para muchas acuáticas, las plantas terrestres son lo que se llama el productor primario de la cadena alimentaria, la fuente de compuestos que almacenan energía como carbohidratos, fuente de compuestos que generan estructuras como los aminoácidos, y otros compuestos esenciales para el metabolismo de algunos heterótrofos. Entonces la mayoría de las especies de la superficie terrestre hoy en día es absolutamente dependiente de las plantas para su supervivencia. Como productores primarios, las plantas son los componentes principales de muchas comunidades y ecosistemas. La supervivencia de las plantas es esencial para mantener la salud de esos ecosistemas, la disrupción de los cuales traería como consecuencia la desaparición de especies y cambios desastrosos en la erosión, el flujo de agua, y en última instancia del clima.
+
+Para los humanos, las plantas son monumentalmente importantes en forma directa:
+
+Las plantas de importancia agricultural, la mayoría de las cuales son angiospermas, son nuestra principal fuente de alimento. Utilizamos todas las partes de las plantas como productos alimenticios: raíces (como las batatas y las zanahorias), los tallos (como las papas, las mandiocas), las hojas (como en el repollo, la lechuga), las flores (como en el brócoli), y frutos y semillas, incluyendo granos como el arroz, el trigo, el maíz, las arvejas y los porotos, y un conjunto importante de frutos como la banana, el tomate, el ají, el ananá, el kiwi, los cítricos, las aceitunas, y otros demasiado numerosos para mencionar. Otras plantas son utilizadas como saborizantes, entre ellas hay hierbas (como el perejil, la salvia, el romero, el tomillo) y especias no hierbas (como la canela, la vainilla, la pimienta), otras son utilizadas como bebidas estimulantes, como el café, el té, el chocolate, y la cola, o como bebidas alcohólicas, como la cerveza, el vino, los licores destilados, y los licores dulces.
+
+Los árboles leñosos de coníferas y de angiospermas son utilizados para aprovechar la madera y para hacer productos de su pulpa como el papel. En las regiones tropicales, los bambúes, las palmeras, y una variedad de otras especies sirven en la construcción de viviendas humanas. Las fibras de las plantas son usadas para hacer cuerdas como el sisal, bolsas como la arpillera, y textiles, principalmente de algodón pero también de lino y de cáñamo.
+
+Los depósitos de combustibles fósiles como el petróleo derivan de biomasa de plantas acumuladas.
+
+En muchas culturas, las plantas o sus productos son utilizados como eufóricos o alucinógenos (legal o ilegalmente), como la marihuana, el opio, la cocaína, y una gran variedad de otras especies que fueron utilizadas por indígenas por centurias.
+
+Las plantas son importantes por su belleza estética, y el cultivo de plantas como ornamentales es una industria importante.
+
+Finalmente, las plantas tienen una gran importancia en medicina, para tratar una variedad de enfermedades o para mantener la buena salud.
+
+Los productos de las plantas son importantes en la industria farmacológica, sus compuestos son extraídos, semisintetizados, o usados como molde para sintetizar nuevas drogas. Muchas drogas "modernas", desde la aspirina (que originalmente se extraía de la corteza del sauce) a la vincristina y la vinblastina (obtenidas de la vincapervinca de Madagascar y usadas para tratar la leucemia infantil) son en última instancia derivados de las plantas. Además, varias partes de las plantas de un gran número de especies son usadas completas o son procesadas como los llamados suplementos herbales, que se han vuelto tremendamente populares recientemente.
+
+También son importantes para el hombre las plantas que modifican la composición de un ecosistema, como las plantas introducidas en lugares de los que no son originarias ("plantas exóticas") y las que debido a que son dañinas para la economía de un sistema agropecuario son consideradas plagas o malezas.
+
+Ciencias que estudian a las plantas
+La Botánica es la ciencia que estudia a la mayoría de los organismos que tradicionalmente fueron tratados como plantas, entre los que se incluye virtualmente a todos los organismos eucariotas fotosintéticos (plantas terrestres y algas) más otros organismos eucariotas que no fotosintetizan pero poseen paredes celulares y esporas (los hongos y algunos grupos que anteriormente fueron considerados hongos, como Oomycota), aunque estos últimos están cada vez más estudiados en su propio departamento de Micología. Las algas también pueden estar en su propio departamento de Ficología.
+
+Normalmente las demás ciencias que estudian a las plantas tienen en cuenta solo a las plantas terrestres. Algunas tienen una orientación netamente práctica: la agricultura se ocupa de aumentar la cosecha o la resistencia a enfermedades de los productos para alimentación, y la horticultura se ocupa de realizarlo en las plantas cultivadas para ornamentales. Por ejemplo, en estas dos ciencias se hacen estudios de hibridación y se identifican nuevos cultivares. Las ciencias forestales (silvicultura) se ocupan del cultivo y cosecha de árboles utilizados por su madera y su pulpa. La farmacognosia es la rama de la farmacología que se ocupa de las drogas naturales en estado crudo, y normalmente son de origen vegetal (aunque no necesariamente).
+
+En contraste con esos campos más prácticos de las ciencias de las plantas, las ciencias "puras" tienen como objetivo el avance del conocimiento científico, tanto las ciencias "aplicadas" como las "básicas". Entre las ciencias puras se encuentran la anatomía de las plantas, que trata de la estructura de células y tejidos y su estructura, la fitoquímica y la fisiología de plantas, que tratan de los procesos bioquímicos y biofísicos y sus productos,63​ la biología molecular de las plantas, que trata la estructura y función del material genético, la ecología de las plantas, que trata de sus interacciones con el ambiente, y la sistemática de plantas, que trata de la taxonomía y la filogenia de las plantas.
+
+Anexo: Plantae según Whittaker, 1969
+Este autor agrupó a los organismos en reinos principalmente sobre la base de sus modos de nutrición y características celulares. En su clasificación Plantae contiene, principalmente, organismos eucariotas multicelulares fotosintéticos, con células con cloroplastos y con pared celular (lo que algunos llaman célula vegetal, definida como el tipo de célula de los vegetales), organizados de forma que las células posean al menos cierto grado de especialización funcional. Esta definición se corresponde con circunscripciones de esa época de lo que hoy son las algas rojas, las algas pardas, y las plantas verdes (que contienen a las "algas verdes" y las plantas terrestres). El autor incluyó en estos grupos a algunos organismos que no se correspondían con esta descripción, por ejemplo porque eran unicelulares o porque su modo de nutrición era la absorción, que ya se sabía que estaban emparentados con ellos. Las plantas así definidas, en su mayor parte son organismos autótrofos: "fabrican" su propio "alimento", en este caso fotosintéticos: utilizan como fuente de energía la luz del Sol y la almacenan en forma de energía química en las moléculas orgánicas que sintetizan (ver en Cloroplasto). También exploran el medio ambiente que las rodea (normalmente a través de órganos especializados como las raíces) para absorber otros nutrientes esenciales, como minerales y compuestos con nitrógeno y fósforo, utilizados para construir proteínas y otras moléculas que necesitan para subsistir. Las plantas también suelen estar ancladas a un sustrato (por ejemplo mediante las mismas raíces) y poseer tejidos especializados en darles soporte.
+
+Estos grupos poseen reproducción primariamente sexual, con generación haploide y diploide alternadas, cada una de ellas puede ser multicelular o no (ver en "Reproducción sexual y ciclos de vida").
+
+Esta clasificación incluye tres subreinos:
+
+Rhodophycophyta a las algas rojas
+Phaeophycophyta las algas pardas
+Euchlorophyta a las plantas verdes, entre las cuales se encuentran las "algas verdes" y las plantas terrestres
+Número de especies estimadas
+La siguiente tabla enumera el número estimado de especies de plantas descritas por clase según la UICN. El reino Plantae constituye el segundo con mayor número de especies después del reino Animalia.64​
+
+Grupo de plantas	Imagen	Número estimado
+Bryophyta (musgos)	Taiwan 2009 JinGuaShi Historic Gold Mine Moss Covered Retaining Wall FRD 8940.jpg	16,236
+Pteridophyta (helechos y afines)	Sa-fern.jpg	12,000
+Angiospermae (plantas con flores)	Primula aka.jpg	280,000
+Gymnospermae (gimnospermas)	Forest in Yatsugatake 11.jpg	1,052
+Chlorophyta (algas verdes)	Chara vulgaris.jpg	4,242
+Rhodophyta (algas rojas)	Gracilaria2.JPG	6,144
+Otras	Phaeoceros laevis.jpg	10,000
+Total	~323,674
+Véase también
+Desarrollo vegetal
+Botánica
+Archaeplastida
+Anexo:Sistemas de taxonomía vegetal
+Clasificación de los organismos vegetales
+Notas
+ Para más información ver el (texto).
+ Es un error común afirmar que en 1978 Whittaker y Margulis propusieran un reino Protoctista que agrupara a todas las algas que anteriormente estaban en Plantae. En 1978 Whittaker y Margulis propusieron una clasificación en cinco reinos con Plantae agrupando a plantas terrestres, algas rojas y algas pardas, y un reino Protista que agrupara entre los protistas a las algas verdes: R Whittaker, L Margulis. 1978. «Protist classification and the kingdoms of organisms.» Biosystems.
+ En este texto sólo se hace referencia a la "fotosíntesis oxigénica", que libera oxígeno. Pero no es la única forma de fotosíntesis, en su definición más general "fotosíntesis" es la captación de luz para convertirla en energía química de moléculas orgánicas: sintetizar a partir de moléculas más simples moléculas complejas, orgánicas. Por ejemplo algunas cianobacterias pueden pasar a una fotosíntesis anoxigénica en que se utiliza otro reactivo en lugar de agua y como consecuencia no se libera oxígeno.
+ Un cromóforo también puede emitir luz por fluorescencia, fenómeno que será ignorado en este texto.
+Referencias citadas
+ Jürgen F. H. Strassert, Iker Irisarri, Tom A. Williams & Fabien Burki (2021). A molecular timescale for eukaryote evolution with implications for the origin of red algal-derived plastids.
+ 2.ª acepción de "planta" de acuerdo con el DRAE
+ Bahadur, B.; Krishnamurthy, K.V (2015). Bahadur, Bir; Venkat Rajam, Manchikatla; Sahijram, Leela et al., eds. [1] Plant Biology and Biotechnology: Volume I: Plant Diversity, Organization, Function and Improvement] (en inglés). Springer New Delhi Heidelberg New York Dordecht London. p. 16. ISBN 978-81-322-2285-9. Consultado el 27 de marzo de 2016.
+ «Plant behaviour and communication». Ecology Letters, Volume 11, 2008. 736 (en inglés). Blackwell Publishing Ltd/CNRS. doi:10.1111/j.1461-0248.2008.01183.x. Consultado el 27 de marzo de 2016.
+ S. L. Baldauf et al. 2003, The Deep Roots of Eukaryotes. Science 300, 1703 (2003); DOI: 10.1126/science.1085544
+ KJ Niklas. 2000. «The Evolution of Plant Body Plans—A Biomechanical Perspective.» Annals of Botany 85(4) 411-438.
+ Whittaker, R. H. 1969. «New Concepts of Kingdoms of Organisms.» Science 163. no. 3863, pp. 150-160 DOI: 10.1126/science.163.3863.150 «Copia archivada». Archivado desde el original el 13 de agosto de 2012. Consultado el 8 de febrero de 2013.
+ M. Taylor. 2003. The collapse of the two-kingdom system, the rise of protistology and the founding of the International Society for Evolutionary Protistology (ISEP). IJSEM.
+ Haeckel, E. H. P. A. (1866). Generelle Morphologie der Organismen: allgemeine Grundzüge der organischen Formen-Wissenschaft, mechanisch begründet durch die von C. Darwin reformirte Decendenz-Theorie. Berlin.
+ Joseph M. Scamardella 1999, Not plants or animals: a brief history of the origin of Kingdoms Protozoa, Protista and Protoctista INTERNATL MICROBIOL (1999) 2:207-216.
+ Copeland, Herbert Faulkner (1956). The Classification of Lower Organisms. Pacific Books, Palo Alto-California.
+ Whittaker, R. H. «On the Broad Classification of Organisms.» The Quarterly Review of Biology 34 (3) sep. 1959): 210-226 On this basis four kingdoms are here proposed: The Protista, or unicellular organisms; the Plantae, or multicellular plants; the Fungi; and the Animalia or multicellular animals.
+ Margulis, L. 1971. «Whittaker's Five Kingdoms of Organisms: Minor revisions suggested by considerations of the origin of mitosis.» Evolution 25 (1).
+ Cavalier-Smith, T. (1998). «A revised six-kingdom system of life.» Biological Reviews of the Cambridge Philosophical Society. Según su clasificación de Plantae.
+ Bhattacharya, Debashish; Yoon, Hwan Su; Hackett, Jeremiah (2003). «Photosynthetic eukaryotes unite: endosymbiosis connects the dots.». BioEssays 26: pp. 50-60.
+ T. Cavalier-Smith 1981, «Eukaryote kingdoms: Seven or nine?» Biosystems. Volume 14, Issues 3.4, 1981, pp. 461-481.
+ Przemysław Gagat et al 2013, «How protein targeting to primary plastids via the endomembrane system could have evolved? A new hypothesis based on phylogenetic studies.» Biology Direct 2013, 8:18 doi:10.1186/1745-6150-8-18.
+ Por ejemplo en EV Koonin. 2010. The Incredible Expanding Ancestor of Eukaryotes 140(5): 606-608.
+ Cavalier Smith, T. 2007, «Evolution and relationships of algae major branches of the tree of life.» Unravelling the algae, Brodie & Lewis. CRC Press.
+ Tereza Ševčíková et al 2015. «Updating algal evolutionary relationships through plastid genome sequencing.» Scientific Reports 5, Article number: 10134 (2015) doi:10.1038/srep10134.
+ Theodor Cole & Hartmut Hilger 2013 Bryophyte Phylogeny. Archivado el 23 de noviembre de 2015 en Wayback Machine.
+ Theodor Cole & Hartmut Hilger 2013 Trachaeophyte Phylogeny Archivado el 4 de marzo de 2016 en Wayback Machine.
+ Theodor Cole & Hartmut Hilger 2015 Angiosperm Phylogeny, Flowering Plant Systematics. Freie Universität Berlin.
+ Leebens-Mack, James H. (2019). «One thousand plant transcriptomes and the phylogenomics of green plants». Nature 574 (7780): 679-685. PMC 6872490. PMID 31645766. doi:10.1038/s41586-019-1693-2.
+ Sousa, Filipe (2020). «The Chloroplast Land Plant Phylogeny: Analyses Employing Better-Fitting Tree- and Site-Heterogeneous Composition Models». Frontiers in Plant Science 11: 1062. PMC 7373204. PMID 32760416. doi:10.3389/fpls.2020.01062. Parámetro desconocido |doi-access= ignorado (ayuda)
+ Error de Lua en Módulo:Citas en la línea 916: Unrecognized ID mode.
+ Puttick, Mark N.; Morris, Jennifer L.; Williams, Tom A.; Cox, Cymon J.; Edwards, Dianne; Kenrick, Paul; Pressel, Silvia; Wellman, Charles H. et al. (2018). «The Interrelationships of Land Plants and the Nature of the Ancestral Embryophyte». Current Biology 28 (5): 733-745.e2. PMID 29456145. doi:10.1016/j.cub.2018.01.063.
+ Cavalier-Smith, Thomas; Chao, Ema E.; Lewis, Rhodri (1 de junio de 2016). «Multigene phylogeny resolves deep branching of Amoebozoa». Molecular Phylogenetics and Evolution 99: 275-296. doi:10.1016/j.ympev.2016.03.023.
+ Gawryluk, Ryan M. R.; Tikhonenkov, Denis V.; Hehenberger, Elisabeth; Husnik, Filip; Mylnikov, Alexander P.; Keeling, Patrick J. (August 2019). «Non-photosynthetic predators are sister to red algae». Nature (en inglés) 572 (7768): 240-243. ISSN 1476-4687. PMID 31316212. S2CID 197542583. doi:10.1038/s41586-019-1398-6.
+ T. Cavalier Smith 2007, «Evolution and relationships of algae major branches of the tree of life.» Brodie & Lewis Unravelling the algae. CRC Press
+ Wellman, Charles et al. 2003, «Fragments of the earliest land plants.» Nature 425, Issue 6955, pp. 282-285.
+ Jane Gray et al 1985. The Microfossil Record of Early Land Plants. Royal Society Publishing. Abril 1985 v. 309 Issue: 1138, DOI: 10.1098/rstb.1985.0077
+ Rubinstein CV et al. 2010 «Early Middle Ordovician evidence for land plants in Argentina (eastern Gondwana).» New Phytol. 2010 Oct;188(2):365-9. doi: 10.1111/j.1469-8137.2010.03433.x. Epub 20 de agosto 2010.
+ Kathy Willis, Jennifer McElwain (2014). The Evolution of Plants. OUP Oxford.
+ Abominable Mystery: The Origin of Flowers and the History of Pollination. Archivado el 15 de octubre de 2016 en Wayback Machine. University of Marylan 2014
+ Cavalier-Smith, T. 2013. «Early evolution of eukaryote feeding modes, cell structural diversity, and classification of the protozoan phyla Loukozoa, Sulcozoa, and Choanozoa.» European Journal of Protistology.
+ Cavalier-Smith, T. 2010. «Deep phylogeny, ancestral groups and the four ages of life.» Phylosofical transactions of the Royal Society B.
+ Cavalier-Smith, T. 2010b. «Kingdoms Protozoa and Chromista and the eozoan root of the eukaryotic tree.» Biol. Lett.
+ Cavalier-Smith, T. 2009. «Megaphylogeny, Cell Body Plans, Adaptive Zones: Causes and Timing ofEukaryote Basal Radiations.» J. Eukaryot. microbiol.
+ Raven, Peter H.; Evert, Ray F.; Eichhorn, Susan E. (2005). «Photosynthesis, Light, and Life.» Biology of Plants (7th ed.). W. H. Freeman. pp. 119–127. ISBN 0-7167-9811-5
+ William Michael Muir Baron 1979, Organisation in Plants. C.IV, P. 68, 3ª Ed. ISBN-13: 978-0521427517
+ Niklas, K. J. 2004. «The Cell Walls that Bind the Tree of Life.» BioScience 54(9):831-841.
+ Popper, Gurvan, Hervé, Domozych, Willats, Tuohy, Kloareg, Stengel. 2011. «Evolution and Diversity of Plant Cell Walls: From Algae to Flowering Plants.» Annual Review of Plant Biology 62: 567-590
+ I Sørensen, 2010. How Have Plant Cell Walls Evolved? Plant Physiology 153(2)
+ Fangel, Ulvskov, Knox, Mikkelsen, Harholt, Popper, y Willats. 2012. «Cell wall evolution and diversity.» Plant Sci. 3: 152.
+ Lincoln Taiz yEduardo Zeiger Plant Physiology 3rd Edition SINAUER 2002 pp. 13 y 14 ISBN 0-87893-856-7
+ Pyke, K. A. 1999. «Plastid Division and Development.» American Society of Plant Physiologists
+ Wise, R. R. 2006. «The Diversity of Plastid Form and Function.» Advances in Photosynthesis and Respiration 23: 3-26.
+ Sheanan, M. B., R. J. Rose, D. W. McCurdy. «Organelle inheritance in plant cell division: the actin cytoskeleton is required for unbiased inheritance of chloroplasts, mitochondria and endoplasmic reticulum in dividing protoplasts.» The Plant Journal. 37(3): 379–390.
+ Simpson, M. G. . 2005. «Temporal Phenomena.» En: Plant Systematics. Elsevier Academic Press. página 402.
+ Portela, Rubén. «Las plantas más longevas: milenios en el planeta». ciencia y biología. Consultado el 10 de abril de 2021.
+ Bhattacharya, D., Schmidt, H. A. 1997. «Division Glaucocystophyta.» In Origin of algae and their plastids (ed. Bhattacharya, D., coordinador.) pp. 139–148 Wien, New York: Springer-Verlag.
+ Steiner, J. M., Loffelhardt, W. 2002. «Protein import into cyanelles.» Trends Plant Sci. 7: 72–77 (doi:10.1016/S1360-1385(01)02179-3)
+ Judd, W. S.; Campbell, C. S., Kellogg, E. A., Stevens, P.F., Donoghue, M. J. 2007. Plant systematics: a phylogenetic approach, Third Edition. Sinauer Axxoc, USA. Página 5. «A phylogenetic approach demands that each taxon be a monophyletic group, defined as a group composed of an ancestor and all of its descendants»: p. 33. «A phylogenetic classification attempts to name only monophyletic groups, but the fact that a group is monophyletic does not mean it needs to have a name».
+ The Angiosperm Phylogeny Group III ("APG III", en orden alfabético: Brigitta Bremer, Kåre Bremer, Mark W. Chase, Michael F. Fay, James L. Reveal, Douglas E. Soltis, Pamela S. Soltis y Peter F. Stevens, además colaboraron Arne A. Anderberg, Michael J. Moore, Richard G. Olmstead, Paula J. Rudall, Kenneth J. Sytsma, David C. Tank, Kenneth Wurdack, Jenny Q.-Y. Xiang y Sue Zmarzty) (2009). «An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering plants: APG III.» (pdf). Botanical Journal of the Linnean Society (161): 105-121. Archivado desde el original el 25 de mayo de 2017. Consultado el 30 de noviembre de 2012.
+ Haston, E.; Richardson, J.E.; Stevens, P.F.; Chase, M.W. (2007), «A linear sequence of Angiosperm Phylogeny Group II families», Taxon 56 (1): 7-12, doi:10.2307/25065731 |autor2= y |apellido2= redundantes (ayuda).
+ Christenhusz, M. J. M. et al. (2011) «A new classification and linear sequence of extant gymnosperms.» Phytotaxa 19: 55–70.
+ Preface to “Linear sequence, classification, synonymy, and bibliography of vascular plants: Lycophytes, ferns, gymnosperms and angiosperms” http://www.mapress.com/phytotaxa/content/2011/f/pt00019p006.pdf
+ Christenhusz, Maarten J. M.; Zhang, Xian-Chun; Schneider, Harald (2011). «A linear sequence of extant families and genera of lycophytes and ferns» (PDF). Phytotaxa 19: 7-54.
+ Corrections to Phytotaxa 19: Linear sequence of lycophytes and ferns http://www.mapress.com/phytotaxa/content/2011/f/pt00028p052.pdf
+ Cerdà, Abel (22 de noviembre de 2019). «El curiós llenguatge de les plantes». Espores (en catalán). Consultado el 15 de diciembre de 2021.
+ Khait, I.; Lewin-Epstein, O.; Sharon, R.; Saban, K.; Perelman, R.; Boonman, A.; Yovel, Y.; Hadany, L. (2 de diciembre de 2019). Plants emit informative airborne sounds under stress (en inglés). p. 507590. doi:10.1101/507590v4. Consultado el 15 de diciembre de 2021.
+ Yorker, Michael PollanThe New. «The Intelligent Plant». michaelpollan.com (en inglés estadounidense). Consultado el 8 de marzo de 2019.
+ UICN
+Bibliografía
+General:
+
+Helena Curtis, N. Sue Barnes, Adriana Schnek. 2008. "Biología de las plantas". En: Biología. Séptima edición en español. Editorial médica Panamericana. Sección 7.
+La última edición "del Raven", está en inglés: Ray F. Evert, Susan E. Eichhorn (dedicado a Peter Raven). 2012. Biology of plants. 8.ª edición (en inglés). Editorial W. H. Freeman.
+En planes corporales y morfología de las plantas
+
+Juan J. Valla. 1986. Botánica, morfología de las plantas superiores. Hemisferio Sur.
+En Botánica Sistemática (filogenia y taxonomía):
+
+Judd, W. S. Campbell, C. S. Kellogg, E. A. Stevens, P.F. Donoghue, M. J. 2007. Plant systematics: a phylogenetic approach, Third Edition. Sinauer Axxoc, USA.
+M. J. Simpson. 2005. Plant Systematics. Elsevier Academic Press.
+En reglas para nombrar a las plantas (nomenclatura):
+
+"Nomenclatura y taxonomía de las plantas, una perspectiva agricultural y agronómica". Define también conceptos de taxonomía y de especie. Considera versiones de los códigos, tanto de plantas silvestres como de plantas cultivadas, que ahora están desactualizadas, pero sigue siendo una buena lectura. Está en inglés: Spooner, D. M.; Hetterscheid, W. L. A.; Van den Berg, R. G.; Brandenburg, W. A. 2003. «Plant Nomenclature and Taxonomy, an agricultural and agronomic perspective.» Horticultural Reviews 28. Editó J Janick. preview en Google Books
+El Código Internacional de Nomenclatura Botánica (en inglés): J. MCNEILL, Chairman, F. R. BARRIE, W. R. BUCK, V. DEMOULIN, W. GREUTER, D. L. HAWKSWORTH, P. S. HERENDEEN, S. KNAPP, K. MARHOLD, J. PRADO, W. F. PRUD'HOMME VAN REINE, G. F. SMITH, J. H. WIERSEMA, Members, N. J. TURLAND, Secretary of the Editorial Committee: International Code of Botanical Nomenclature (Melbourne Code) adoptado por el Eighteenth International Botanical Congress Melbourne, Australia, julio de 2011. Publ. 2012. Regnum Vegetabile 154. A.R.G. Gantner Verlag KG. ISBN 978-3-87429-425-6 http://www.iapt-taxon.org/nomen/main.php
+El Código Internacional de Nomenclatura de Plantas Cultivadas (en inglés): C.D. Brickell et al. 2009. International Code of Nomenclature for Cultivated Plants. Octava edición (este código es pago, se consigue aquí)
+Manuales para su cuidado:
+
+José Plana Pujol (1996) Hablar con las Plantas: las 75 plantas de interior fundamentales, Alianza Editorial. ISBN 9788420607672.
+Enlaces externos
+ Wikimedia Commons alberga una categoría multimedia sobre Plantae.
+ Wikiquote alberga frases célebres de o sobre Plantae.
+ Wikispecies tiene un artículo sobre Plantae.
+Control de autoridades	
+Proyectos WikimediaWd Datos: Q756Commonscat Multimedia: PlantaeWikiquote Citas célebres: PlantaWikispecies Especies: Plantae
+IdentificadoresBNF: 11933145f (data)GND: 4045539-7LCCN: sh85102839NDL: 00572119NARA: 10641997SUDOC: 040761320AAT: 300132360Diccionarios y enciclopediasBritannica: urlTreccani: urlBases de datos taxonómicasAlgaeBase: https://www.algaebase.org/browse/taxonomy/detail/?taxonid=1BioLib: 14871Dyntaxa: 5000045EOL: 281GBIF: 6iNaturalist: 47126ITIS: 202422MycoBank: 514430Paleobiology Database: 151418WoRMS: 3Identificadores médicosMeSH: D010944
+Categoría: Plantae
+Menú de navegación
+No has accedido
+Discusión
+Contribuciones
+Crear una cuenta
+Acceder
+ArtículoDiscusión
+LeerEditarVer historial
+Buscar
+Buscar en Wikipedia
+Portada
+Portal de la comunidad
+Actualidad
+Cambios recientes
+Páginas nuevas
+Página aleatoria
+Ayuda
+Donaciones
+Notificar un error
+Herramientas
+Lo que enlaza aquí
+Cambios en enlazadas
+Subir archivo
+Páginas especiales
+Enlace permanente
+Información de la página
+Citar esta página
+Elemento de Wikidata
+Imprimir/exportar
+Crear un libro
+Descargar como PDF
+Versión para imprimir
+En otros proyectos
+Wikimedia Commons
+Wikiespecies
+Wikiquote
+
+Editar enlaces
+Esta página se editó por última vez el 31 ene 2022 a las 18:31.
+El texto está disponible bajo la Licencia Creative Commons Atribución Compartir Igual 3.0; pueden aplicarse cláusulas adicionales. Al usar este sitio, usted acepta nuestros términos de uso y nuestra política de privacidad.
+Wikipedia® es una marca registrada de la Fundación Wikimedia, Inc., una organización sin ánimo de lucro.
+Política de privacidadAcerca de WikipediaLimitación de responsabilidadVersión para móvilesDesarrolladoresEstadísticasDeclaración de cookiesWikimedia FoundationPowered by MediaWiki
