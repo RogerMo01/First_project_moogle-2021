@@ -2,7 +2,6 @@ namespace MoogleEngine;
 
 public class InputQuery
 {
-    public List<string> ordinaryWords { get; private set; }
     public List<string> stopWords { get; private set; }
     public List<string> neededWords { get; private set; } 
     public List<(int stars, string word)> relevantWords { get; private set; }
@@ -17,13 +16,12 @@ public class InputQuery
         // si el query tiene más de un espacio consecutivo, el Split() devuelve un ("") de por medio, así los eliminamos
         terms.RemoveAll(x => x == ""); 
         
-        // primeramente analizar si hay palabras relacionadas por el operador (~), y eliminarlas de la lista
+        // primeramente analizar si hay palabras relacionadas por el operador (~), y eliminar el operador de la lista
         this.relatedWords = RelatingOperatorAnalyzer(ref terms);        
         // luego analizamos la existencia del resto de los operadores
         this.stopWords = new List<string>();
         this.neededWords = new List<string>();
         this.relevantWords = new List<(int index, string word)>();
-        this.ordinaryWords = new List<string>();
 
         foreach (string term in terms)
         {
@@ -42,7 +40,6 @@ public class InputQuery
                 break;
 
                 default:
-                ordinaryWords.Add(StringHandler.WordRefactor(term));
                 break;
             }
         }

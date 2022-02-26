@@ -22,6 +22,8 @@ public static class StringHandler
     
     public static string GetFileName(string root)
     {
+        char separator = Path.DirectorySeparatorChar;
+
         // contar tamaño del substring que forma la extensión del archivo (.txt = 4)
         int extLength = 1;
 
@@ -36,7 +38,7 @@ public static class StringHandler
 
         for (int i = root.Length - 1 - extLength; i >= 0; i--)
         {
-            if(root[i] == '\\') break;
+            if(root[i] == separator) break;
             revertedName += root[i];
         }
 
@@ -59,11 +61,13 @@ public static class StringHandler
 
     public static string RemoveLastDirectoryName(string root)
     {
+        char separator = Path.DirectorySeparatorChar;
+
         int counter = 0;
 
         for (int i = root.Length - 1; i >= 0; i--)
         {
-            if (root[i] != '\\') counter++; else break;
+            if (root[i] != separator) counter++; else break;
         }
 
         root = root.Remove(root.Length - counter, counter);

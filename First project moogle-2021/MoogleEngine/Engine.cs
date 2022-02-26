@@ -3,11 +3,11 @@ namespace MoogleEngine;
 public static class Engine
 {
     
-    public static string[] GetStopOrNeededDocuments(InputQuery inputQuery, CorpusDB dB, List<string> clasificatedList)
+    public static string[] GetStopOrNeededDocuments(InputQuery inputQuery, List<string> clasificatedList)
     {
+        CorpusDB dB = CorpusDB.GetDB;
         List<string> returnDocs = new List<string>();
 
-        // itera por cada stopWord
         foreach (string word in clasificatedList)
         {
             // indice que tiene la palabra en todas las del query
@@ -23,32 +23,47 @@ public static class Engine
         return returnDocs.ToArray();        
     }
 
+    public static Dictionary<string, float> GetDocsScores(float[,] tf_Idf)
+    {
+        CorpusDB dB = CorpusDB.GetDB;
+        Dictionary<string, float> scores = new Dictionary<string, float>();
+
+        for (int i = 0; i < tf_Idf.GetLength(1); i++)
+        {
+            scores.Add(dB.DocumentsCollection[i], 0);
+
+            for (int j = 0; j < tf_Idf.GetLength(0); j++)
+            {
+                scores[dB.DocumentsCollection[i]] += tf_Idf[j, i];
+            }
+        }
+
+        return scores;
+    }
     
     
-
-
     #region Return Documents
 
-        public static Dictionary<string, float> GetDocsToReturn(Dictionary<string, float> scores, CorpusDB dB, string[] stopDocuments, string[] neededDocuments)
+        public static Dictionary<string, float> GetDocsToReturn(Dictionary<string, float> scores, string[] stopDocuments, string[] neededDocuments)
         {
-            #region Operadores
-                // elimina de la lista los stopDocuments
-                foreach (var doc in stopDocuments)
-                { scores.Remove(doc); }
+            CorpusDB dB = CorpusDB.GetDB;
+            
+            // elimina de la lista los stopDocuments
+            foreach (var doc in stopDocuments)
+            { scores.Remove(doc); }
 
-                // elimina de la lista los documentos donde no aparecen las neededWords
-                if(neededDocuments.Length > 0)
-                {
-                    string[] neededDocumentsComplement = GetDocsComplement(dB.DocumentsCollection, neededDocuments);
-                    foreach (var doc in neededDocumentsComplement)
-                    { scores.Remove(doc); }
-                }                
-            #endregion
+            // elimina de la lista los documentos donde no aparecen las neededWords
+            if(neededDocuments.Length > 0)
+            {
+                string[] neededDocumentsComplement = GetDocsComplement(dB.DocumentsCollection, neededDocuments);
+                foreach (var doc in neededDocumentsComplement)
+                { scores.Remove(doc); }
+            }                
 
             Dictionary<string, float> returnDocs = new Dictionary<string, float>();
             // ordena el Diccionario
             List<(string key, float value)> list = ToList(scores);        
-            list = SortTill(list, 0.001f); // ordena los scores hasta un límite de score, el resto los elimina
+            list = SortTill(list, 0.1f); // ordena los scores hasta un límite de score, el resto los elimina
 
             // decide cuántos documentos devolver (max 10)
             int returnSize = (list.Count < 10) ? list.Count : 10;
@@ -137,8 +152,10 @@ public static class Engine
 
     #region Snippets
 
-        public static Dictionary<string, string> GetSnippets(string[] roots, InputQuery query, float[,] tfIdf, string[] documentsCollection)
+        public static Dictionary<string, string> GetSnippets(string[] roots, InputQuery query, float[,] tfIdf)
         {
+            CorpusDB dB = CorpusDB.GetDB;
+
             Dictionary<string, string> snippets = new Dictionary<string, string>();
             string[] words = query.allWords;
 
@@ -158,7 +175,7 @@ public static class Engine
                 for (int j = 0; j < wordScore.Count; j++)
                 {
                     // si la palabra está en el documento
-                    if (tfIdf[IndexOf(words, wordScore[j].word), IndexOf(documentsCollection, roots[i])] > 0)
+                    if (tfIdf[IndexOf(words, wordScore[j].word), IndexOf(dB.DocumentsCollection, roots[i])] > 0)
                     {
                         snippets.Add(roots[i], GetSnippetWith(wordScore[j].word, roots[i]));
                         break;
@@ -218,7 +235,7 @@ public static class Engine
                         // si la oración tiene más de 30 palabras, nos quedamos con la vecindad de la palabra clave de radio 15
                         if(separatedWords.Length > 30)
                         {
-                            return CropSnippet(i, separatedWords, 15);
+                            return CutSnippet(i, separatedWords, 15);
                         }
                         else
                         {
@@ -233,7 +250,7 @@ public static class Engine
             // éste caso solo debería ocurrir si la palabra es de ínfima importancia para el documento
             return "No hay snippet recomendado 🙃";
         }
-        private static string CropSnippet(int index, string[] splitedSentence, int ratio)
+        private static string CutSnippet(int index, string[] splitedSentence, int ratio)
         {
             string snippet = "";
 
@@ -253,15 +270,17 @@ public static class Engine
 
     #region Suggestion
 
-        public static string MakeSuggestion(InputQuery inputQuery, CorpusDB dB, float[,] tfIdf)
+        public static string MakeSuggestion(InputQuery inputQuery, float[,] tfIdf)
         {
+            CorpusDB dB = CorpusDB.GetDB;
             string[] queryWords = inputQuery.allWords;
             string[] suggestion = new string[queryWords.Length];
 
             for (int i = 0; i < queryWords.Length; i++)
             {
-                // comprueba si la ocurrencia de la palabra en todos los documentos es nula e ir llenando la suggestion
-                if(IsRowClean(tfIdf, i))
+                // comprueba si la ocurrencia de la palabra en todos los documentos es nula
+                //o si en los documentos donde aparece es insignificante
+                if(IsRowCleanOrIrrelevant(tfIdf, i))
                 {
                     suggestion[i] = GetSuggestion(queryWords[i], dB.Words);
                 }
@@ -274,11 +293,11 @@ public static class Engine
             return String.Join(" ", suggestion);
         }
 
-        private static bool IsRowClean(float[,] tfIdf, int row)
+        private static bool IsRowCleanOrIrrelevant(float[,] tfIdf, int row)
         {
             for (int i = 0; i < tfIdf.GetLength(1); i++)
             {
-                if(tfIdf[row, i] != 0) return false;
+                if(tfIdf[row, i] > 0.1f) return false;
             }
 
             return true;
@@ -286,27 +305,59 @@ public static class Engine
 
         private static string GetSuggestion(string word, List<string> wordsCollection)
         {
+            List<string> suggestionList = new List<string>();
             // inicializar con valores despreciables
-            string suggested = word;
-            double score = 1;
+            double scoreMin = 1;
             
             // analizar la distancia de Levenshtein de la palabra con las del corpus
-            foreach (var item in wordsCollection)
+            foreach (var word2 in wordsCollection)
             {
                 // analizar solo las palabras con un máximo de 2 carácteres de tamaño de diferencia
-                if(Math.Abs(word.Length - item.Length) <= 2)
+                if(Math.Abs(word.Length - word2.Length) <= 2)
                 {
-                    double tempScore = LevenshteinDistance(word, item);
+                    double tempScore = LevenshteinDistance(word, word2);
 
-                    if(tempScore < score) // actualiza
+                    if(tempScore < scoreMin)
                     {
-                        score = tempScore;
-                        suggested = item;
+                        scoreMin = tempScore;
+                        suggestionList.Clear();
+                        suggestionList.Add(word2);
+                    }
+                    if(tempScore == scoreMin)
+                    {
+                        suggestionList.Add(word2);
                     }
                 }
             }
 
-            return suggested;
+            // analizar para quedarme con la mejor palabra para la sugerencia (mayor TF-IDF)
+            CorpusDB dB = CorpusDB.GetDB;
+
+            // calcula el TF-IDF de las posibles palabras de sugerencia
+            float[,] tfIdf = Scorer.GetTf_Idf(suggestionList.ToArray());
+
+            // tomar como score de la palabra la suma de todos sus TF-IDF en todos los documentos
+            float[] wordScores = new float[suggestionList.Count];            
+            for (int i = 0; i < wordScores.Length; i++)
+            {
+                wordScores[i] = SumInThisRow(tfIdf, i);
+            }
+
+            // inicializar con valores arbitrarios
+            string suggWord = "*"; // en caso de no haber sugerencia se retorna ésta para luego identificar que no hubo sugerencia
+            float suggScore = -1;
+            
+            // quedarme con el mayor 
+            for (int i = 0; i < suggestionList.Count; i++)
+            {
+                if(wordScores[i] > suggScore && wordScores[i] > 0.1f)
+                {
+                    suggScore = wordScores[i];
+                    suggWord = suggestionList[i];
+                }
+            }
+
+            return suggWord;
         }
 
         public static double LevenshteinDistance(string wordRow, string wordCol)

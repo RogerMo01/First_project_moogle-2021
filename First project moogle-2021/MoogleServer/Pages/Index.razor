@@ -4,30 +4,90 @@
 
 <h1>🔍 Moogle!</h1>
 
-<input class="p-1 my-4" @bind="query" placeholder="Introduzca su búsqueda">
+<input class="p-1 my-4" @bind="query" placeholder="Introduzca su búsqueda" @onkeyup="PressEnter">
 
-<button type="default" class="btn btn-primary" @onclick="RunQuery">🔍 Buscar</button>
+<button type="default" class="btn btn-primary" aria-keyshortcuts="Enter" @onclick="RunQuery">🔍 Buscar</button>
 
-@if (!string.IsNullOrEmpty(result.Suggestion)) {
-    <div class="suggestion">
-        <p>¿Quisite decir <strong><a href="#" @onclick="RunSuggestion">@result.Suggestion</a></strong>?</p>
-    </div>
+@if (!string.IsNullOrEmpty(result.Suggestion)) 
+{
+    bool areResult = result.Items().First().Title != "SIN RESULADOS DE BÚSQUEDA";
+    bool areSuggestion = result.Suggestion != "*";
+
+    if(areSuggestion && !areResult)
+    {
+        <div class="suggestion">
+            <p>¿Quisiste decir <strong><a href="#" @onclick="() => RunSuggestion()">@result.Suggestion</a></strong>?</p>
+        </div>
+    }
+    if(areSuggestion && areResult)
+    {
+        // no devolver sugerencia
+    }
+    if(!areSuggestion)
+    {
+        <div class="suggestion">
+            <p>No hay sugerencias😕</p>
+        </div>
+    }
+    
 }
 
 <ul class="results">
-@foreach (var item in result.Items()) {
-    <li>
+@foreach (var item in result.Items())
+{
+    if(item.Title != "SIN RESULADOS DE BÚSQUEDA" && item.Title != "NO SE REALIZÓ NINGUNA BÚSQUEDA")
+    {
+        <li>
         <div class="item">
-            <p class="title">@item.Title</p>
+            <p class="title"><a href="#" @onclick="() => LoadDoc(item.Title)">@item.Title</a></p>
             <p>... @item.Snippet ...</p>
         </div>
-    </li>
+        </li>
+    }
+    else
+    {
+        <li>
+        <div class="item">
+            <p class="title">@item.Title</p>
+        </div>
+        </li>
+    }
 }
 </ul>
 
 @code {
     private string query = "";
     private SearchResult result = new SearchResult();
+
+
+    private void PressEnter(KeyboardEventArgs e)
+    {
+        if (e.Code == "Enter")
+        { RunQuery(); }
+    }
+
+    private static void LoadDoc(string title)
+    {
+        CorpusDB dB = CorpusDB.GetDB;
+        char separator = Path.DirectorySeparatorChar;
+
+        string root = dB.ContentRoot;
+        
+        // inicia el proceso que abre los txt
+        try
+        {
+            using(System.Diagnostics.Process process = new System.Diagnostics.Process())
+            {
+                process.StartInfo.FileName = root + separator + title + ".txt";
+                process.StartInfo.UseShellExecute = true;
+                process.StartInfo.WindowStyle = System.Diagnostics.ProcessWindowStyle.Normal;
+                process.Start();
+            }
+        }
+        catch (System.Exception)
+        { }
+        
+    }
 
     private void RunQuery() {
         result = Moogle.Query(query);

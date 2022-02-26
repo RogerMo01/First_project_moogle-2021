@@ -4,22 +4,23 @@ public static class Scorer
 {
     
     #region TF-IDF
-        public static float[,] GetTf_Idf(CorpusDB dB, InputQuery inputQuery)
+        public static float[,] GetTf_Idf(string[] queryWords)
         {
+            CorpusDB dB = CorpusDB.GetDB;
             // define la base de mi logaritmo para el Idf
             int logBase = SetLogBase(dB.Size);
 
             // hacer la matriz de los TF a partir del query y mi DB
-            int[,] tf = new int[inputQuery.allWords.Length, dB.DocumentsCollection.Length];
+            int[,] tf = new int[queryWords.Length, dB.DocumentsCollection.Length];
 
             for (int i = 0; i < tf.GetLength(0); i++)
             {
                 for (int j = 0; j < tf.GetLength(1); j++)
                 {
                     // si la palabra está en el documento, asignar el TF a la matriz
-                    if (dB.TF[dB.DocumentsCollection[j]].ContainsKey(inputQuery.allWords[i]))
+                    if (dB.TF[dB.DocumentsCollection[j]].ContainsKey(queryWords[i]))
                     {
-                        tf[i, j] += dB.TF[dB.DocumentsCollection[j]][inputQuery.allWords[i]];
+                        tf[i, j] += dB.TF[dB.DocumentsCollection[j]][queryWords[i]];
                     }
                 }
             }
@@ -95,25 +96,24 @@ public static class Scorer
 
     #endregion
 
-    #region Operators Scoring
+    #region Score Refactor
 
-        public static void ScoreOperators(float[,] tfIdf, InputQuery inputQuery, CorpusDB dB)
+        public static void ScoreOperators(float[,] tfIdf, InputQuery inputQuery)
         {
-            #region Relevant Words
+            CorpusDB dB = CorpusDB.GetDB;
 
-                foreach (var word in inputQuery.relevantWords)
-                {                    
-                    // obtiene el índice de la fila que representa la palabra en la matriz
-                    int row = Engine.IndexOf(inputQuery.allWords, word.word);
+            foreach (var word in inputQuery.relevantWords)
+            {                    
+                // obtiene el índice de la fila que representa la palabra en la matriz
+                int row = Engine.IndexOf(inputQuery.allWords, word.word);
 
-                    // multiplica cada tfIdf de la palabra por sus estrellas de relevancia en todos los documentos
-                    for (int i = 0; i < tfIdf.GetLength(1); i++)
-                    {
-                        tfIdf[row, i] *= (word.stars + 1);
-                    }
+                // multiplica cada tfIdf de la palabra por sus estrellas de relevancia en todos los documentos
+                for (int i = 0; i < tfIdf.GetLength(1); i++)
+                {
+                    tfIdf[row, i] *= (word.stars + 1);
                 }
+            }
             
-            #endregion
 
             #region Related Words
 
@@ -175,23 +175,4 @@ public static class Scorer
 
     #endregion
 
-
-
-
-    public static Dictionary<string, float> GetDocsScores(float[,] tf_Idf, CorpusDB dB)
-    {
-        Dictionary<string, float> scores = new Dictionary<string, float>();
-
-        for (int i = 0; i < tf_Idf.GetLength(1); i++)
-        {
-            scores.Add(dB.DocumentsCollection[i], 0);
-
-            for (int j = 0; j < tf_Idf.GetLength(0); j++)
-            {
-                scores[dB.DocumentsCollection[i]] += tf_Idf[j, i];
-            }
-        }
-
-        return scores;
-    }
 }

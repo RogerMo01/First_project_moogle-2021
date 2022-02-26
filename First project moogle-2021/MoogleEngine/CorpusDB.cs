@@ -6,8 +6,9 @@ namespace MoogleEngine;
 
 public class CorpusDB
 {
-    private static Lazy<CorpusDB> db = new Lazy<CorpusDB>(new CorpusDB());
+    private static CorpusDB db = new CorpusDB();
 
+    public string ContentRoot { get; private set; }
     public string[] DocumentsCollection { get; private set; }
     public Dictionary<string, Dictionary<string, int>> TF { get; private set; }
     public Dictionary<string, List<string>> Texts { get; set; }
@@ -17,11 +18,13 @@ public class CorpusDB
 
     private CorpusDB()
     {
+        char separator = Path.DirectorySeparatorChar;
+        
         // root de la carpeta Content
-        string contentDirectoryRoot = StringHandler.ReplaceLastDirectoryName(Directory.GetCurrentDirectory(), "Content");
+        this.ContentRoot = StringHandler.ReplaceLastDirectoryName(Directory.GetCurrentDirectory(), "Content");
 
         // Guarda todas las "roots" de los documentos del corpus
-        this.DocumentsCollection = Directory.EnumerateFiles(contentDirectoryRoot).ToArray();
+        this.DocumentsCollection = Directory.EnumerateFiles(this.ContentRoot).ToArray();
 
         // Guarda la cantidad de documentos
         this.Size = DocumentsCollection.Length;
@@ -86,22 +89,7 @@ public class CorpusDB
         }
         # endregion
 
-        // poner los tf en una matriz
-        /*
-        this.TFMatrix = new int[Words.Count, DocumentsCollection.Length];
-        for (int i = 0; i < TFMatrix.GetLength(0); i++)
-        {
-            for (int j = 0; j < TFMatrix.GetLength(1); j++)
-            {
-                // si la palabra está en el documento, asignar el TF a la matriz
-                if (TF[DocumentsCollection[j]].ContainsKey(Words[i]))
-                {
-                    TFMatrix[i, j] += TF[DocumentsCollection[j]][Words[i]];
-                }
-            }
-        }*/
-
     }
 
-    public static CorpusDB GetDB { get{ return db.Value; } }
+    public static CorpusDB GetDB { get{ return db; } }
 }
